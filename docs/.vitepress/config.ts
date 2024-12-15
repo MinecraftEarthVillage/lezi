@@ -7,13 +7,17 @@ import { head, nav, sidebar } from './configs'
 const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
+
+
   outDir: '../dist',
-  base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
+  base: '/',
 
   lang: 'zh-CN',
-  title: '茂茂物语',
-  description: '茂茂的成长之路，包含前端常用知识、源码阅读笔记、各种奇淫技巧、日常提效工具等',
+  title: 'Lezi-Wiki',
+  description: '不太聪明的驿站 乐子记录之路',
   head,
+
+  ignoreDeadLinks: true,
 
   lastUpdated: true,
   cleanUrls: true,
@@ -34,14 +38,14 @@ export default defineConfig({
 
     /* 右侧大纲配置 */
     outline: {
-      level: 'deep',
+      level: [1, 6],
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/postyizhan/lezi-wiki' }],
 
     footer: {
-      message: '如有转载或 CV 的请标注本站原文地址',
+      message: 'https://github.com/postyizhan/lezi-wiki',
       copyright: 'Copyright © 2019-present maomao',
     },
 
@@ -66,14 +70,14 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'postyizhan.lezi-wiki',
     },
 
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
-      repoId: 'R_kgDOJC09Jg',
-      category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
+      repo: 'postyizhan/lezi-wiki',
+      repoId: 'R_kgDOLJVBFA',
+      category: 'comment',
+      categoryId: 'DIC_kwDOLJVBFM4CerHO',
     },
   },
 
