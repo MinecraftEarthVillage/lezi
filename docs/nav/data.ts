@@ -302,8 +302,8 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://ts1.cn.mm.bing.net/th/id/R-C.21a7297de5dcf6dfcafd6186a44d4e12?rik=Z41hPPPlzrNReA&riu=http%3a%2f%2fwiki.connect.qq.com%2fwp-content%2fuploads%2f2013%2f10%2f02_qq_logo_ver-682x1024.png&ehk=JbdByiSyS9R67ZomaeCVJwqZWyOOgzN0hLQ7iFO77eo%3d&risl=&pid=ImgRaw&r=0',
         title: 'QQ交流群',
-        desc: '欢迎来到咱的群!',
-        link: 'https://qm.qq.com/q/LNnPcvrnGw',
+        desc: '欢♂迎来到咱的兽群!',
+        link: 'https://map.earthvillage.top/qqun.html',
       },
     ],
   },
