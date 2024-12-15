@@ -7,17 +7,13 @@ import { head, nav, sidebar } from './configs'
 const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
-
-
   outDir: '../dist',
+  // base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
   base: '/',
-
   lang: 'zh-CN',
-  title: 'Lezi-Wiki',
-  description: '不太聪明的驿站 乐子记录之路',
+  title: '乐子档案',
+  description: '不太聪明的地球村乐子记录之路，收录了大量沙雕玩家有趣的发言记录，包括但不限于作死、花式整活、骂街、迷惑言论等名场面，因其内容有趣而进行收录，切勿模仿其中的任何恶意行为',
   head,
-
-  ignoreDeadLinks: true,
 
   lastUpdated: true,
   cleanUrls: true,
@@ -38,14 +34,14 @@ export default defineConfig({
 
     /* 右侧大纲配置 */
     outline: {
-      level: [1, 6],
+      level: 'deep',
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/postyizhan/lezi-wiki' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
 
     footer: {
-      message: 'https://github.com/postyizhan/lezi-wiki',
+      message: '如有转载或 CV 的请标注本站原文地址',
       copyright: 'Copyright © 2019-present maomao',
     },
 
@@ -70,14 +66,14 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'postyizhan.lezi-wiki',
+      badgeId: 'maomao1996.vitepress-nav-template',
     },
 
     comment: {
-      repo: 'postyizhan/lezi-wiki',
-      repoId: 'R_kgDOLJVBFA',
-      category: 'comment',
-      categoryId: 'DIC_kwDOLJVBFM4CerHO',
+      repo: 'maomao1996/vitepress-nav-template',
+      repoId: 'R_kgDOJC09Jg',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDOJC09Js4Cekn0',
     },
   },
 
