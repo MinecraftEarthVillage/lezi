@@ -1,88 +1,49 @@
-# vitepress-nav-template
+<div align="center">
+  <div>
+    <img src="/docs/public/logo.png" width="230" alt="Yizhan" />
+  </div>
+  <b>
+    乐子Wiki
+  </b>
+  <div>
+    <sup>集百处之乐，成一家之言</sup>
+  </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maomao1996/picture/main/vitepress-nav-template/home.webp" alt="home" />
-</p>
-<p align="center"> 基于 <b>VitePress</b> 的个人前端导航页面模板 </p>
-<p align='center'><a href="/guide.md">基础教程</a> | <a href="https://notes.fe-mm.com/">作者博客</a></p>
+![watch](https://badgen.net/github/watchers/postyizhan/Lezi-Wiki)
+![stars](https://badgen.net/github/stars/postyizhan/Lezi-Wiki)
+![code-size](https://img.shields.io/github/repo-size/postyizhan/lezi-wiki)
 
----
+</div>
 
-## 预览地址
+# 📖 开始阅读
 
-- <https://fe-nav.netlify.app/nav/>
-- <https://maomao1996.github.io/vitepress-nav-template/nav/>
+https://lezi.earthvillage.top
 
-## 功能
 
-- 新增 `layout-class` 方便更好的自定义样式
-- 默认中文
-- 自带前端导航模块
-- 支持访客统计
-- 支持 [giscus 评论](https://giscus.app/zh-CN)
-- 支持日夜颜色模式自适应切换
-- 支持 Github Pages 直接部署上线
-  - 1. 开启 github actions
-  - 2. 配置 Pages 为 `gh-pages` 分支
-  - 3. 访问地址为 `https://<username>.github.io/<repository>/`
-- 支持 [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-- 支持查看 vue 示例组件源码（使用 [vite-plugin-markdown-preview](https://github.com/jaskang/vite-plugin-markdown-preview)）
+![:lezi-wiki](https://count.kjchmc.cn/get/@:lezi-wiki)
 
-### 开启访客统计
 
-需在 `docs/.vitepress/config.ts` 中配置 `themeConfig.visitor`
+[企鹅群🐧](https://map.earthvillage.top/qqun.html)
 
-```ts
-export default defineConfig({
-  themeConfig: {
-    /* 访客统计 */
-    visitor: {
-      /** 统计 id（单独页面的统计会作为前缀使用）*/
-      badgeId: 'maomao1996.vitepress-nav-template',
-    },
-  },
-})
-```
+# 🎖 贡献
 
-### 开启 giscus 评论
+<table>
+  <tr>
+    <!-- 战虎 -->
+    <td align="center">
+      <a href="https://github.com/MinecraftEarthVillage"
+        ><img
+          src="https://avatars.githubusercontent.com/u/141799770"
+          width="50px;"
+          alt=""
+        /><br /><sub><b>战虎</b></sub></a
+      >
+      <p>项目建立者,维护者</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
-需在 `docs/.vitepress/config.ts` 中配置 `themeConfig.comment`
+# 📢 说明
 
-```ts
-export default defineConfig({
-  themeConfig: {
-    /**
-     * giscus 评论配置
-     *  请根据 https://giscus.app/zh-CN 生成内容填写
-     */
-    comment: {
-      /** github 仓库地址 */
-      repo: '',
-      /** giscus 仓库 ID */
-      repoId: '',
-      /** Discussion 分类 */
-      category: '',
-      /** giscus 分类 ID */
-      categoryId: '',
-    },
-  },
-})
-```
-
-#### 在指定页面关闭评论
-
-需在指定页面的 `markdown` 文件中添加如下 `frontmatter` 配置
-
-```md
----
-comment: false
----
-
-# 功能测试页
-```
-
-docs: 更新 README
-
-## 说明
-
-前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-nav-template>
+前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 保留版权声明 [[参考]](https://github.com/maomao1996/vitepress-nav-template)
