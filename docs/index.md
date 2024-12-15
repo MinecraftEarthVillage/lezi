@@ -5,7 +5,7 @@ layoutClass: 'm-home-layout'
 hero:
   name: 小地球的
   text: 乐子文档导航页
-  tagline: 集百处之乐，成一家之言
+  tagline: 不太聪明的地球村乐子记录之路，收录了大量沙雕玩家有趣的发言记录，包括但不限于作死、花式整活、骂街、迷惑言论等名场面，因其内容有趣而进行收录，切勿模仿其中的任何恶意行为
   image:
     src: /logo.gif
     alt: 乐子文档
