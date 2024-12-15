@@ -12,6 +12,7 @@ XSDE/7625555经典语录
 </details>
 
 ### 炸裂2
+
 <details>
 
 ![](/others/XSDE/2.png)
@@ -31,11 +32,13 @@ XSDE/7625555经典语录
 
 ## 《什么鬼》
 <details>
+
 不是哥们你理解能力这么弱吗，不是在说禁物品的事吗
 
 还是说你就是违规本人？
 
 ![](/others/XSDE/不懂BAN物品.jpg)
+
 </details>
 
 ## 个人主页
