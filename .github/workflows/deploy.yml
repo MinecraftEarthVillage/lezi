@@ -57,11 +57,9 @@ jobs:
 
       # 部署
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          full_commit_message: Deploying to gh-pages from @ ${{ github.sha }} 🚀
           # GitHub Pages 读取的分支
-          publish_branch: gh-pages
+          branch: gh-pages
           # 静态文件所在目录
-          publish_dir: dist
+          folder: dist
