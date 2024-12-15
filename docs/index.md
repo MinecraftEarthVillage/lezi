@@ -29,7 +29,7 @@ features:
   - icon: 🚉
     title: 我传（？）
     details: 笨蛋文档自我介绍
-    link: https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
+    link: /article/自我介绍
     linkText: 点击查看
   - icon: 💁‍♀️
     title: 美女大全
