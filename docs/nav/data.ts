@@ -33,6 +33,12 @@ export const NAV_DATA: NavData[] = [
         desc: '听我说，把服务器的模组删掉，换我推荐的这个，好！',
         link: '/article/zAilyn',
       },
+      {
+        icon: 'https://www.emojiall.com/images/120/joypixels/0033-20e3.png',
+        title: '三人传',
+        desc: '来自上古时期的久远资料',
+        link: '/article/三人传',
+      },
     ],
   },
   {
