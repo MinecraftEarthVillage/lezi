@@ -39,6 +39,12 @@ export const NAV_DATA: NavData[] = [
         desc: '来自上古时期的久远资料',
         link: '/article/三人传',
       },
+      {
+        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '新人大赏',
+        desc: '弱智新人迷惑发言大全',
+        link: '/article/弱智新人大赏',
+      },
     ],
   },
   {
