@@ -46,6 +46,12 @@ export const NAV_DATA: NavData[] = [
         link: '/article/杨小闹传奇',
       },
       {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%BB.svg',
+        title: '苦练准心的空谷',
+        desc: '想不出骚话',
+        link: '/article/苦练准心的空谷',
+      },
+      {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '新人大赏',
         desc: '弱智新人迷惑发言大全',
