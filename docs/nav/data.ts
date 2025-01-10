@@ -52,6 +52,12 @@ export const NAV_DATA: NavData[] = [
         link: '/article/苦练准心的空谷',
       },
       {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%94%93.svg',
+        title: '19事件',
+        desc: '大型纪录片《弱密码传奇》持续播出',
+        link: '/article/19事件',
+      },
+      {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '新人大赏',
         desc: '弱智新人迷惑发言大全',
