@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.C7BRT4fz.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"article/ashen.md","filePath":"article/ashen.md","lastUpdated":1736857625000}'),r={name:"article/ashen.md"};function s(n,c,o,i,d,p){return a(),t("div")}const m=e(r,[["render",s]]);export{_ as __pageData,m as default};
