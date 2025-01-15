@@ -80,6 +80,12 @@ export const NAV_DATA: NavData[] = [
         desc: '懒得写desc',
         link: '/article/版主米饭传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/htc/1f35a.png',
+        title: '嘿鹰传',
+        desc: '不是黑影！不是黑影！',
+        link: '/article/嘿鹰',
+      },
      {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A7%A8.svg',
         title: 'pankuler传',
