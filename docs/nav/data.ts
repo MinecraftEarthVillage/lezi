@@ -97,7 +97,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%91%91.svg',
         title: '皇权论坛传奇',
         desc: '最炫MC风',
-        link: 'https://map.earthvillage.top/MCBBS.mp4',
+        link: '/article/mcbbs',
       },
     ],
   },
