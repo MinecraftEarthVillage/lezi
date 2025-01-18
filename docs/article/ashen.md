@@ -11,6 +11,6 @@
 
 ## 炸裂
 
-![](/others/ashen传/0.png)
+![](/others/ashen传/0.jpg)
 
 ## 持续更新中
