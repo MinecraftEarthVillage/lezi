@@ -63,6 +63,12 @@ export const NAV_DATA: NavData[] = [
         desc: '弱智新人迷惑发言大全',
         link: '/article/弱智新人大赏',
       },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%9B%A3.svg',
+        title: '阿参传',
+        desc: '阿参终于来到自己梦寐以求的名人堂',
+        link: '/article/ashen',
+      },
     ],
   },
   {
