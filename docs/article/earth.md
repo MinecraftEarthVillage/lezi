@@ -180,7 +180,9 @@ PS:据说所谓的真实姓名和照片是看了战虎发在小世界的和室�
 
 ### 外部链接
 MINEBBS帖子（第一人称叙事）
+
 https://www.minebbs.com/threads/22229
+
 https://www.minebbs.com/threads/ol-2.26752/
 
 所有已收录的逆天截图，来自于潜入群聊的热心玩家
