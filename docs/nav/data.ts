@@ -108,7 +108,7 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '其他人的瓜（来自伪乐子驿站的智障乐子文章）',
+    title: '其他人的瓜（与本服务器无关）',
     items: [
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',

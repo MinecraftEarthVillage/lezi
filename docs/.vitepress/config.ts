@@ -70,7 +70,7 @@ export default defineConfig({
     },
 
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
+      repo: 'MinecraftEarthVillage/lezi',
       repoId: 'R_kgDOJC09Jg',
       category: 'Announcements',
       categoryId: 'DIC_kwDOJC09Js4Cekn0',
