@@ -10,6 +10,8 @@
 
 开源模板链接：https://github.com/maomao1996/vitepress-nav-template
 
+乐子驿站GITHUB主页：https://github.com/postyizhan
+
 所以它发了个ISSUSE...
 
 ![ISSUSE留档](/others/乐子驿站/屏幕截图_20-1-2025_205541_github.com.jpeg)
@@ -53,14 +55,22 @@
 
 </details>
 
-<details>
-
 **居然说自己母语骄傲的人是逆天，典型殖人发言**
+
+<details>
 
 ![](/others/乐子驿站/殖人言论.jpg)
 
 **这就得发一下QQ了**
 
 ![](/others/乐子驿站/殖人2.jpg)
+
+</details>
+
+## 挂人家实名信息和住址等
+
+<details>
+
+![](/others/乐子驿站/挂别人实名信息.png)
 
 </details>
