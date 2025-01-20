@@ -21,7 +21,7 @@
 
 <details>
 
-![](/others/ashen传/给你礼包不会领2.png)
+![](/others/ashen传/给你礼包不会领3.png)
 
 </details>
 
