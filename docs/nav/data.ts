@@ -110,18 +110,7 @@ export const NAV_DATA: NavData[] = [
   {
     title: '其他人的瓜（与本服务器无关）',
     items: [
-      {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: 'tinksp管理an',
-        desc: '剽窃开源配置倒卖',
-        link: '/article/tinksp管理an',
-      },
-      {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: '圣经-新约-无极福音第 114 章',
-        desc: '想不出骚话',
-        link: 'https://docs.qq.com/document/DQ2pEblBZQXNIdlFD',
-      },
+
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: 'E5-5950x瓜',
@@ -146,12 +135,7 @@ export const NAV_DATA: NavData[] = [
         desc: '想不出骚话',
         link: 'https://docs.qq.com/doc/DTHlxdXp6bUNVYkNj',
       },
-      {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: '哦传',
-        desc: '用gpt用的',
-        link: 'https://docs.qq.com/doc/DQ1dmdktBdWhBWVlK',
-      },
+      
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: 'Chem创造10w线程毁灭服务器',
@@ -163,18 +147,6 @@ export const NAV_DATA: NavData[] = [
         title: '还是汉化大佬',
         desc: '提pr把build.yml“汉化”了，是故意的还是不小心的🔫',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
-      },
-      {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: '时之殇传',
-        desc: '还得是mi',
-        link: 'https://docs.qq.com/doc/DQ09UV0hXZGxqR0ha',
-      },
-      {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: 'kali大肘子',
-        desc: 'B站刷到的视频',
-        link: 'https://www.bilibili.com/video/BV1uZ421r7a2',
       },
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8D%88.svg',
