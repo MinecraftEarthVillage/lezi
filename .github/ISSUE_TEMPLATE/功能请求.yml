@@ -9,13 +9,13 @@ body:
       description: "请选择名人的形象（只能选择一项）。"
       options:
         - label: "正面形象"
-          value: "positive"
+          value: "zheng"
         - label: "负面形象"
-          value: "negative"
+          value: "fu"
       required: true
   - type: conditional
     id: "conditional-positive"
-    condition: "yml-1 == 'positive'"
+    condition: "yml-1 == 'zheng'"
     fields:
       - type: checkboxes
         id: "yml-2"
@@ -33,7 +33,7 @@ body:
           required: true
   - type: conditional
     id: "conditional-negative"
-    condition: "yml-1 == 'negative'"
+    condition: "yml-1 == 'fu'"
     fields:
       - type: textarea
         id: "yml-3"
