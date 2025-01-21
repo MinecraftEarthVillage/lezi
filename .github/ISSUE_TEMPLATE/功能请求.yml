@@ -1,6 +1,6 @@
 name: 名人形象反馈
-description: 如果你觉得这个名人形象很特殊，请告诉我们
-labels: ["名人形象反馈"]
+description: 如果你觉得这个东西好像不对劲，就提交给我们
+labels: ["BUG"]
 body:
   - type: dropdown
     id: "yml-1"
@@ -10,7 +10,6 @@ body:
       options:
         - 正面形象
         - 负面形象
-      required: true
 
   - type: checkboxes
     id: "yml-2"
@@ -19,7 +18,6 @@ body:
       description: "如果选择了正面形象，请确认是否已获得当事人的同意。"
       options:
         - label: "当事人已经同意"
-          required: false
 
   - type: textarea
     id: "yml-4"
@@ -27,7 +25,6 @@ body:
       label: "当事人声明（仅适用于正面形象）"
       description: "如果选择了正面形象，请提供当事人的声明。"
       placeholder: "-（请在这里填写）-"
-      required: false
 
   - type: textarea
     id: "yml-3"
@@ -35,7 +32,6 @@ body:
       label: "描述行为（仅适用于负面形象）"
       description: "如果选择了负面形象，请描述相关行为。"
       placeholder: "-（请在这里填写）-"
-      required: false
 
   - type: textarea
     id: "yml-5"
@@ -43,4 +39,3 @@ body:
       label: "上传文件（仅适用于负面形象）"
       description: "如果选择了负面形象，请提供相关文件描述事件。"
       placeholder: "-（请在这里上传）-"
-      required: false
