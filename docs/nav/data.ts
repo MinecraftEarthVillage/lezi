@@ -72,8 +72,14 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '村外篇',
+    title: '村外篇（在别的群看到的）',
     items: [
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%91%91.svg',
+        title: '皇权论坛传奇',
+        desc: '最炫MC风',
+        link: '/article/mcbbs',
+      },
       {
         icon: 'https://www.emojiall.com/images/240/microsoft-teams/1f3a9.png',
         title: '土皇帝喵',
@@ -87,7 +93,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/版主米饭传',
       },
       {
-        icon: 'https://www.emojiall.com/images/60/htc/1f35a.png',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A6%85.svg',
         title: '嘿鹰传',
         desc: '不是黑影！不是黑影！',
         link: '/article/嘿鹰',
@@ -98,13 +104,13 @@ export const NAV_DATA: NavData[] = [
         desc: '究极地图炮',
         link: '/article/pankuler传',
       },
-
       {
-        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%91%91.svg',
-        title: '皇权论坛传奇',
-        desc: '最炫MC风',
-        link: '/article/mcbbs',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%94%81.svg',
+        title: '伪乐子WIKI',
+        desc: '我觉得你抄袭了我',
+        link: '/article/lezi2',
       },
+
     ],
   },
   {

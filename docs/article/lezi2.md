@@ -19,7 +19,9 @@
 ![](/others/乐子驿站/3.jpg)
 
 
-## 截图别人Issuse挂自己网页
+## 乐子看什么都是乐子
+
+### 截图别人Issuse挂自己网页
 
 ~~没活可以咬打火机~~
 
@@ -27,13 +29,35 @@
 
 ![ISSUSE留档](/others/乐子驿站/别人提的反馈也挂出去.png)
 
+《只有图片里是中文》
+
+![](/others/乐子驿站/worldedit.png)
+
+原文链接 https://lezi.yizhan.wiki/article/%E4%BA%8C%E4%BA%BA%E4%BC%A0#%E7%BB%99worldedit%E5%8F%91%E4%B8%AD%E6%96%87issues
+
 # 乐子群聊
 
-它们有一个乐子群，专门挂人、组织炸服等，在网络上造谣抹黑、妖言惑众，侵犯他人隐私、恶俗魔怔，开别人户籍，实在是罪大恶极
+它们有一个乐子群，专门挂人、组织炸服等，在网络上造谣抹黑、妖言惑众，侵犯他人隐私、恶俗魔怔，开别人户籍，~~实在是罪大恶极~~
 
 ![](/others/乐子驿站/乐子群聊.jpg)
 
-**注意**：此群与MC圈无关，与《我的世界》无关，如果你因为发言风格不服预期被[扣帽子](https://lezi.yizhan.wiki/)本站概不负责
+
+
+**注意**：此群与MC圈无关，与《我的世界》无关，如果你因为发言风格不符合它们预期被[扣帽子](https://lezi.yizhan.wiki/)本站概不负责
+
+**例如**
+
+<details>
+
+- 原文地址：
+
+https://lezi.yizhan.wiki/article/Pojun%E4%BC%A0
+
+https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
+
+![](/others/乐子驿站/发言不合它们预期.png)
+
+</details>
 
 **但是~**
 
@@ -42,6 +66,8 @@
 [](/others/乐子驿站/模范发言.jpg)
 
 ## 逆天记录（持续更新）
+
+### 群聊天记录
 
 <details>
 
@@ -57,13 +83,13 @@
 
 <details>
 
-试图举报我方网站，但不料我们只是模板相同
+### 试图举报我方网站，但不料我们只是模板相同
 
 ![](/others/乐子驿站/试图举报.jpg)
 
 </details>
 
-**居然说自己母语骄傲的人是逆天，典型殖人发言**
+### 典型殖人发言
 
 <details>
 
@@ -75,6 +101,12 @@
 
 </details>
 
+**对于这种人建议看这个视频**
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1656728206&bvid=BV1UE421c7zR&cid=25656363767&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+什么？你觉得这个视频这个UP也是乐子。好的，我骂的就是你这种货色乐色
+
 ## 挂人家实名信息和住址等
 
 <details>
@@ -82,3 +114,13 @@
 ![](/others/乐子驿站/挂别人实名信息.png)
 
 </details>
+
+# 后续
+
+## 原作者回应
+
+没什么事，别和乐子计较了
+
+原文：https://github.com/maomao1996/vitepress-nav-template/issues/44
+
+![](/others/乐子驿站/原作者回应.png)
