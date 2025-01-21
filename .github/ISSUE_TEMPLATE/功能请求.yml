@@ -10,6 +10,7 @@ body:
       options:
         - 正面形象
         - 负面形象
+    validations:
       required: true
 
   - type: checkboxes
@@ -19,6 +20,7 @@ body:
       description: "如果选择了正面形象，请确认是否已获得当事人的同意。"
       options:
         - label: "当事人已经同意"
+    validations:
       required: true
 
   - type: textarea
@@ -27,6 +29,7 @@ body:
       label: "当事人声明（仅适用于正面形象）"
       description: "如果选择了正面形象，请提供当事人的声明。"
       placeholder: "-（请在这里填写）-"
+    validations:
       required: true
 
   - type: textarea
@@ -35,6 +38,7 @@ body:
       label: "描述行为（仅适用于负面形象）"
       description: "如果选择了负面形象，请描述相关行为。"
       placeholder: "-（请在这里填写）-"
+    validations:
       required: true
 
   - type: textarea
@@ -43,6 +47,7 @@ body:
       label: "上传文件（仅适用于负面形象）"
       description: "如果选择了负面形象，请提供相关文件描述事件。"
       placeholder: "-（请在这里上传）-"
+    validations:
       required: true
 
   - type: checkboxes
@@ -52,6 +57,7 @@ body:
       description: "请确保此任务与地球村相关。"
       options:
         - label: "是的！我确认"
+    validations:
       required: true
 
   - type: textarea
@@ -59,6 +65,7 @@ body:
     attributes:
       label: "请提供聊天记录"
       placeholder: "-（请在这里上传）-"
+    validations:
       required: true
 
   - type: textarea
@@ -66,6 +73,7 @@ body:
     attributes:
       label: "请提供联系方式（微信，QQ，Github，B站主页）"
       placeholder: "-（请在这里回答）-"
+    validations:
       required: true
 
   - type: textarea
@@ -73,4 +81,5 @@ body:
     attributes:
       label: "可以提供现成的markdown文档"
       placeholder: "-（请在这里上传）-"
+    validations:
       required: false
