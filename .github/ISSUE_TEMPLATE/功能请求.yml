@@ -45,8 +45,8 @@ body:
       label: "上传文件（仅适用于负面形象）"
       description: "如果选择了负面形象，请提供相关文件描述事件。"
       placeholder: "-（请在这里填写，没有请填无）-"
-      validations:
-        required: true
+   validations:
+    required: true
 
   - type: checkboxes
     id: "yml-6"
