@@ -82,7 +82,7 @@ body:
     validations:
       required: false
   - type: checkboxes
-    id: "yml-2"
+    id: "内容要求"
     attributes:
       label: "内容要求"
       description: "我确保内容属实且完整，文案保持中立，没有断章取义"
