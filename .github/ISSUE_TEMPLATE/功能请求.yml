@@ -39,3 +39,25 @@ body:
       label: "上传文件（仅适用于负面形象）"
       description: "如果选择了负面形象，请提供相关文件描述事件。"
       placeholder: "-（请在这里上传）-"
+   - type: checkboxes
+    id: "yml-6"
+    attributes:
+      label: "确认相关"
+      description: "请确保此任务与地球村相关。"
+      options:
+        - label: "是的！我确认"
+  - type: textarea
+    id: "yml-7"
+    attributes:
+      label: 请提供聊天记录
+      placeholder: "-（请在这里上传）-"
+  - type: textarea
+    id: "yml-8"
+    attributes:
+      label: 请提供联系方式（微信，QQ，Github，B站主页）"
+      placeholder: "-（请在这里回答）-"
+  - type: textarea
+    id: "yml-9"
+    attributes:
+      label: 可以提供现成的markdown文档
+      placeholder: "-（请在这里上传）-"
