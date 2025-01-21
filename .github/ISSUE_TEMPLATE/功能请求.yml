@@ -10,8 +10,8 @@ body:
       options:
         - 正面形象
         - 负面形象
-    validations:
-      required: true
+      validations:
+        required: true
 
   - type: checkboxes
     id: "yml-2"
