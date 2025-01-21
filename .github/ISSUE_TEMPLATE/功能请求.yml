@@ -12,7 +12,6 @@ body:
           value: "zheng"
         - label: "负面形象"
           value: "fu"
-      required: true
   - type: conditional
     id: "conditional-positive"
     condition: "yml-1 == 'zheng'"
