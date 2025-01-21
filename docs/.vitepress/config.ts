@@ -71,9 +71,9 @@ export default defineConfig({
 
     comment: {
       repo: 'MinecraftEarthVillage/lezi',
-      repoId: 'R_kgDOJC09Jg',
+      repoId: 'R_kgDONdxk_w',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
+      categoryId: 'DIC_kwDONdxk_84CmNH4',
     },
   },
 
