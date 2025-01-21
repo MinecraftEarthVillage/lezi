@@ -1,76 +1,76 @@
-name: 
-description: 如果你觉得这个东西好像不对劲，就提交给我们
-labels: ["BUG"]
+name: 功能请求
+description: none
+labels: ["功能请求"]
 body:
--type: checkboxes
-id: "yml-1"
-attributes:
-  label: "名人形象"
-  description: "请选择名人的形象（只能选择一项）。"
-  options:
-    - label: "正面形象"
-      value: "zheng"
-    - label: "负面形象"
-      value: "fu"
-maxSelections: 1
-      conditions:
-        - when: "selectedOption == 'zheng'"
-          then:
-  -type: checkboxes
-    id: "yml-2"
+  - type: checkboxes
+    id: "yml-1"
     attributes:
-      label: "确认同意"
-      description: "请确保经过当事人同意。"
+      label: "名人形象"
+      description: "请选择名人的形象（只能选择一项）。"
       options:
-        - label: "当事人已经同意"
-          required: true
-    id: "yml-4"
+        - label: "正面形象"
+          value: "zheng"
+        - label: "负面形象"
+          value: "fu"
+      maxSelections: 1
+    conditions:
+      - when: "selectedOption == 'zheng'"
+        then:
+          - type: checkboxes
+            id: "yml-2"
+            attributes:
+              label: "确认同意"
+              description: "请确保经过当事人同意。"
+              options:
+                - label: "当事人已经同意"
+                  required: true
+          - type: textarea
+            id: "yml-4"
+            attributes:
+              label: 请提供当事人声明
+              placeholder: "-（请在这里回答）-"
+              validations:
+                required: true
+      - when: "selectedOption == 'fu'"
+        then:
+          - type: textarea
+            id: "yml-3"
+            attributes:
+              label: 描述行为
+              placeholder: "-（请在这里回答）-"
+              validations:
+                required: true
+          - type: textarea
+            id: "yml-5"
+            attributes:
+              label: 上传文件（包括发生的事）"
+              placeholder: "-（请在这里上传）-"
+              validations:
+                required: true
+  - type: checkboxes
+    id: "yml-6"
     attributes:
-      label: 请提供当事人声明
+      label: "确认相关"
+      description: "请确保此任务与地球村相关。"
+      options:
+        - label: "是的！我确认"
+          required: true
+  - type: textarea
+    id: "yml-7"
+    attributes:
+      label: 请提供聊天记录
+      placeholder: "-（请在这里上传）-"
+      validations:
+        required: true
+  - type: textarea
+    id: "yml-8"
+    attributes:
+      label: 请提供联系方式（微信，QQ，Github，B站主页）"
       placeholder: "-（请在这里回答）-"
       validations:
         required: true
-    - type: textarea
-        - when: "selectedOption == 'fu'"
-          then:
-      id: "yml-3"
-      attributes:
-        label: 描述行为
-        placeholder: "-（请在这里回答）-"
-      validations:
-        required: true
-    - type: textarea
-     id: "yml-5"
-      attributes:
-        label: 上传文件（包括发生的事）
-        placeholder: "-（请在这里上传）-"
-      validations:
-        required: true
-    - type: textarea
--type: checkboxes
-id: "yml-6"
-attributes:
-  label: "确认相关"
-  description: "请确保此任务与地球村相关。"
-  options:
-    - label: "是的！我确认"
-       required: true
-id: "yml-7"
-attributes:
-   label: 请提供聊天记录
-   placeholder: "-（请在这里上传）-"
-   validations:
-     required: true
-- type: textarea
-id: "yml-8"
-attributes:
-   label: 请提供联系方式（微信，QQ，Github，B站主页）
-   placeholder: "-（请在这里回答）-"
-   validations:
-     required: true
-- type: textarea
-id: "yml-9"
-attributes:
-   label: 可以提供现成的markdown文档
-   placeholder: "-（请在这里上传）-"
-- type: textarea
+  - type: textarea
+    id: "yml-9"
+    attributes:
+      label: 可以提供现成的markdown文档
+      placeholder: "-（请在这里上传）-"
