@@ -82,7 +82,7 @@ body:
     validations:
       required: false
   - type: checkboxes
-    id: "nei_rong_yao_qiu"
+    id: "nei_rong_yao_qiu" #只能写英文/数字没办法
     attributes:
       label: "内容要求——经评估后不达标的词条将退回，不会上线"
       description: "我确保内容属实且完整，文案保持中立，没有断章取义"
