@@ -1,6 +1,6 @@
 name: 名人形象反馈
-description: 如果你觉得这个东西好像不对劲，就提交给我们
-labels: ["BUG"]
+description: 如果你觉得这个名人形象很特殊，请告诉我们（
+labels: ["名人"]
 body:
   - type: dropdown
     id: "yml-1"
