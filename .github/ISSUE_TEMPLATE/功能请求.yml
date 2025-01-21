@@ -1,5 +1,5 @@
 name: 名人形象反馈
-description: 如果你觉得这个名人形象很特殊，请告诉我们（
+description: 如果你觉得这个名人形象很特殊，请告诉我们
 labels: ["名人"]
 body:
   - type: dropdown
@@ -10,6 +10,7 @@ body:
       options:
         - 正面形象
         - 负面形象
+      required: true
 
   - type: checkboxes
     id: "yml-2"
@@ -18,6 +19,7 @@ body:
       description: "如果选择了正面形象，请确认是否已获得当事人的同意。"
       options:
         - label: "当事人已经同意"
+      required: true
 
   - type: textarea
     id: "yml-4"
@@ -25,6 +27,7 @@ body:
       label: "当事人声明（仅适用于正面形象）"
       description: "如果选择了正面形象，请提供当事人的声明。"
       placeholder: "-（请在这里填写）-"
+      required: true
 
   - type: textarea
     id: "yml-3"
@@ -32,6 +35,7 @@ body:
       label: "描述行为（仅适用于负面形象）"
       description: "如果选择了负面形象，请描述相关行为。"
       placeholder: "-（请在这里填写）-"
+      required: true
 
   - type: textarea
     id: "yml-5"
@@ -39,25 +43,34 @@ body:
       label: "上传文件（仅适用于负面形象）"
       description: "如果选择了负面形象，请提供相关文件描述事件。"
       placeholder: "-（请在这里上传）-"
-   - type: checkboxes
+      required: true
+
+  - type: checkboxes
     id: "yml-6"
     attributes:
       label: "确认相关"
       description: "请确保此任务与地球村相关。"
       options:
         - label: "是的！我确认"
+      required: true
+
   - type: textarea
     id: "yml-7"
     attributes:
-      label: 请提供聊天记录
+      label: "请提供聊天记录"
       placeholder: "-（请在这里上传）-"
+      required: true
+
   - type: textarea
     id: "yml-8"
     attributes:
-      label: 请提供联系方式（微信，QQ，Github，B站主页）"
+      label: "请提供联系方式（微信，QQ，Github，B站主页）"
       placeholder: "-（请在这里回答）-"
+      required: true
+
   - type: textarea
     id: "yml-9"
     attributes:
-      label: 可以提供现成的markdown文档
+      label: "可以提供现成的markdown文档"
       placeholder: "-（请在这里上传）-"
+      required: false
