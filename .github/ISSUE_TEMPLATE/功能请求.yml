@@ -1,5 +1,5 @@
-name: 名人形象反馈
-description: 如果你觉得这个名人形象很特殊，请告诉我们
+name: 投稿新星
+description: 如果你觉得这个玩家形象很特殊值得收录，请告诉我们
 labels: ["名人"]
 body:
   - type: dropdown
@@ -8,8 +8,8 @@ body:
       label: "名人形象"
       description: "请选择名人的形象（选择后根据提示填写相关内容）"
       options:
-        - 正面形象
-        - 负面形象
+        - 正面形象（例如突出贡献者）
+        - 负面形象（惹人讨厌者，例如熊孩子）
     validations:
       required: true
 
@@ -24,7 +24,7 @@ body:
   - type: textarea
     id: "yml-4"
     attributes:
-      label: "当事人声明（仅适用于正面形象）"
+      label: "经当事人同意"
       description: "如果选择了正面形象，请提供当事人的声明。"
       placeholder: "-（请在这里填写，没有请填无）-"
     validations:
@@ -42,8 +42,8 @@ body:
   - type: textarea
     id: "yml-5"
     attributes:
-      label: "上传文件（仅适用于负面形象）"
-      description: "如果选择了负面形象，请提供相关文件描述事件。"
+      label: "上传文件（仅适用于正面形象）"
+      description: "如果选择了正面形象，请提供相关文件描述事件。"
       placeholder: "-（请在这里填写，没有请填无）-"
     validations:
       required: true
@@ -52,9 +52,9 @@ body:
     id: "yml-6"
     attributes:
       label: "确认相关"
-      description: "请确保此任务与地球村相关。"
+      description: "请确保与地球村相关。"
       options:
-        - label: "是的！我确认"
+        - label: "是的！我确认该对象与地球村服务器相关，无关人员不收录。"
     validations:
       required: true
 
@@ -69,15 +69,22 @@ body:
   - type: textarea
     id: "yml-8"
     attributes:
-      label: "请提供联系方式（微信，QQ，Github，B站主页）"
-      placeholder: "-（请在这里回答）-"
+      label: "请提供“名人”联系方式（专指负面形象）"
+      placeholder: "-（微信，QQ，Github，B站主页）- （当然如果当事人同意，也可以留正面形象者联系方式）"
     validations:
       required: true
 
   - type: textarea
     id: "yml-9"
     attributes:
-      label: "可以提供现成的markdown文档"
+      label: "可以提供现成的markdown文档，但是要把文档内引用的图片文件一同打包"
       placeholder: "-（请在这里上传）-"
     validations:
       required: false
+  - type: checkboxes
+    id: "yml-2"
+    attributes:
+      label: "内容要求"
+      description: "我确保内容属实且完整，文案保持中立，没有断章取义"
+      options:
+        - label: "是！"
