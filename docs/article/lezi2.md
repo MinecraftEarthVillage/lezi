@@ -63,7 +63,7 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 如果你的发言方式保持类似于这样的风格，则可以大大减小被挂网站的风险
 
-[](/others/乐子驿站/模范发言.jpg)
+![](/others/乐子驿站/模范发言.jpg)
 
 ## 逆天记录（持续更新）
 
