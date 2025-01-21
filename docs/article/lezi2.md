@@ -115,6 +115,16 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 </details>
 
+# 释怀了
+
+![难怪成天在搞一些影响团结的事情](/others/乐子驿站/极端.png)
+
+原文地址：https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
+
+我希望本文提到的那些玩意不会看到这里就去删改什么的
+
+
+
 # 后续
 
 ## 原作者回应
