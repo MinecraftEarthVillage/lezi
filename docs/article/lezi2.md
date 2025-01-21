@@ -63,7 +63,11 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 如果你的发言方式保持类似于这样的风格，则可以大大减小被挂网站的风险
 
+<details>
+
 ![](/others/乐子驿站/模范发言.jpg)
+
+</details>
 
 ## 逆天记录（持续更新）
 
@@ -115,13 +119,13 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 </details>
 
-# 释怀了
+## 释怀了
 
 ![难怪成天在搞一些影响团结的事情](/others/乐子驿站/极端.png)
 
 原文地址：https://docs.qq.com/doc/DQ1F1eEhOVkZ1eWtk
 
-我希望本文提到的那些玩意不会看到这里就去删改什么的
+难怪成天在搞一些影响团结的事情
 
 
 
