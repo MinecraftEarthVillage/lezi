@@ -1,48 +1,46 @@
-name: 功能请求
-description: none
-labels: ["功能请求"]
+name: 名人形象反馈
+description: 如果你觉得这个名人形象很特殊，请告诉我们
+labels: ["名人形象反馈"]
 body:
-  - type: checkboxes
+  - type: dropdown
     id: "yml-1"
     attributes:
       label: "名人形象"
-      description: "请选择名人的形象（只能选择一项）。"
+      description: "请选择名人的形象（选择后根据提示填写相关内容）"
       options:
-        - label: "正面形象"
-          value: "zheng"
-        - label: "负面形象"
-          value: "fu"
-  - type: conditional
-    id: "conditional-positive"
-    condition: "yml-1 == 'zheng'"
-    fields:
-      - type: checkboxes
-        id: "yml-2"
-        attributes:
-          label: "确认同意"
-          description: "请确保经过当事人同意。"
-          options:
-            - label: "当事人已经同意"
-              required: true
-      - type: textarea
-        id: "yml-4"
-        attributes:
-          label: 请提供当事人声明
-          placeholder: "-（请在这里回答）-"
-          required: true
-  - type: conditional
-    id: "conditional-negative"
-    condition: "yml-1 == 'fu'"
-    fields:
-      - type: textarea
-        id: "yml-3"
-        attributes:
-          label: 描述行为
-          placeholder: "-（请在这里回答）-"
-          required: true
-      - type: textarea
-        id: "yml-5"
-        attributes:
-          label: 上传文件（包括发生的事）"
-          placeholder: "-（请在这里上传）-"
-          required: true
+        - 正面形象
+        - 负面形象
+      required: true
+
+  - type: checkboxes
+    id: "yml-2"
+    attributes:
+      label: "确认同意（仅适用于正面形象）"
+      description: "如果选择了正面形象，请确认是否已获得当事人的同意。"
+      options:
+        - label: "当事人已经同意"
+          required: false
+
+  - type: textarea
+    id: "yml-4"
+    attributes:
+      label: "当事人声明（仅适用于正面形象）"
+      description: "如果选择了正面形象，请提供当事人的声明。"
+      placeholder: "-（请在这里填写）-"
+      required: false
+
+  - type: textarea
+    id: "yml-3"
+    attributes:
+      label: "描述行为（仅适用于负面形象）"
+      description: "如果选择了负面形象，请描述相关行为。"
+      placeholder: "-（请在这里填写）-"
+      required: false
+
+  - type: textarea
+    id: "yml-5"
+    attributes:
+      label: "上传文件（仅适用于负面形象）"
+      description: "如果选择了负面形象，请提供相关文件描述事件。"
+      placeholder: "-（请在这里上传）-"
+      required: false
