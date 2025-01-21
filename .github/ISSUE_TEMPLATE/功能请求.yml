@@ -17,18 +17,16 @@ body:
     id: "yml-2"
     attributes:
       label: "确认同意（仅适用于正面形象）"
-      description: "如果选择了正面形象，请确认是否已获得当事人的同意。"
+      description: "如果选择了正面形象，请确认是否已获得当事人的同意。（当你选择负面是这个可以不用填）"
       options:
         - label: "当事人已经同意"
-    validations:
-      required: true
 
   - type: textarea
     id: "yml-4"
     attributes:
       label: "当事人声明（仅适用于正面形象）"
       description: "如果选择了正面形象，请提供当事人的声明。"
-      placeholder: "-（请在这里填写）-"
+      placeholder: "-（请在这里填写，没有请填无）-"
     validations:
       required: true
 
@@ -37,7 +35,7 @@ body:
     attributes:
       label: "描述行为（仅适用于负面形象）"
       description: "如果选择了负面形象，请描述相关行为。"
-      placeholder: "-（请在这里填写）-"
+      placeholder: "-（请在这里填写，没有请填无）-"
     validations:
       required: true
 
@@ -46,7 +44,7 @@ body:
     attributes:
       label: "上传文件（仅适用于负面形象）"
       description: "如果选择了负面形象，请提供相关文件描述事件。"
-      placeholder: "-（请在这里上传）-"
+      placeholder: "-（请在这里填写，没有请填无）-"
     validations:
       required: true
 
@@ -57,8 +55,8 @@ body:
       description: "请确保此任务与地球村相关。"
       options:
         - label: "是的！我确认"
-    validations:
-      required: true
+      validations:
+        required: true
 
   - type: textarea
     id: "yml-7"
