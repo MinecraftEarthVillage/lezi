@@ -25,6 +25,9 @@
 </details>
 
 ### 珍贵现场录像（战虎视角）
+
+那时候腐竹还是“战虎”，并且刚好那天在群里，~~于是也在一边吃瓜~~
+
 <details>
 <video controls width="640" height="360">
   <source src="/others/pankuler%E4%BC%A0/Screenrecorder-2024-04-16-19-59-50-487.mp4" type="video/mp4">
@@ -37,20 +40,4 @@
   <source src="/others/pankuler%E4%BC%A0/Video_21868113859052.mp4" type="video/mp4">
   您的浏览器不支持视频播放。
 </video>
-</details>
-
-
-
-
-
-## 大佬怎么整IDEA
-
-为什么不理你个弱智心里没点b数?
-
-<details>
-
-<summary>点击展开</summary>
-
-![](/others/pankuler传/3.png)
-
 </details>

@@ -72,10 +72,10 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '村外篇（在别的群看到的）',
+    title: '村外篇（在别的群看到的，与本服无关哈~）',
     items: [
       {
-        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%91%91.svg',
+        icon: 'https://www.mcbbs.co/template/mcbbs_v2/images/logo.png',
         title: '皇权论坛传奇',
         desc: '最炫MC风',
         link: '/article/mcbbs',
@@ -89,7 +89,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/60/htc/1f35a.png',
         title: '版主米饭传',
-        desc: '懒得写desc',
+        desc: '你游开发圈真是群英荟萃呀',
         link: '/article/版主米饭传',
       },
       {
@@ -101,7 +101,7 @@ export const NAV_DATA: NavData[] = [
      {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A7%A8.svg',
         title: 'pankuler传',
-        desc: '究极地图炮',
+        desc: '之前Minebbs群看到的',
         link: '/article/pankuler传',
       },
       {
@@ -110,13 +110,6 @@ export const NAV_DATA: NavData[] = [
         desc: '我觉得你抄袭了我',
         link: '/article/lezi2',
       },
-
-    ],
-  },
-  {
-    title: '其他人的瓜（与本服务器无关）',
-    items: [
-
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: 'E5-5950x瓜',
@@ -137,21 +130,14 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: '小鱼鱼大蛇蛇',
-        desc: '想不出骚话',
-        link: 'https://docs.qq.com/doc/DTHlxdXp6bUNVYkNj',
-      },
-      
-      {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: 'Chem创造10w线程毁灭服务器',
+        title: 'Chem创造10w线程毁灭服务器（外链）',
         desc: '用chem用的',
         link: 'https://docs.qq.com/doc/DRGxGV0pZRklwcU9H',
       },
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '还是汉化大佬',
-        desc: '提pr把build.yml“汉化”了，是故意的还是不小心的🔫',
+        desc: '拉去请求把build.yml“汉化”了，是故意的还是不小心的🔫',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
       },
       {
