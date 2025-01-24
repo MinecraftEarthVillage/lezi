@@ -82,7 +82,7 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/240/microsoft-teams/1f3a9.png',
-        title: '土皇帝喵',
+        title: '“猫” 叔 传 奇',
         desc: '后门插件大王',
         link: '/article/土皇帝喵',
       },
