@@ -69,6 +69,12 @@ export const NAV_DATA: NavData[] = [
         desc: '阿参终于来到自己梦寐以求的名人堂',
         link: '/article/ashen',
       },
+      {
+        icon: 'https://zh.minecraft.wiki/images/TNT_JE3_BE2.png?d0206',
+        title: '1·23攻击事件',
+        desc: '又一个炸服的，但时间更长',
+        link: '/article/1·23事件',
+      },
     ],
   },
   {
