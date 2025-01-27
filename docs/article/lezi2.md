@@ -22,14 +22,18 @@
 
 一开始还是比较正常的，看起来还不是那种魔怔恶俗像水军的
 
-<details>
-
 根据自动回复消息可以看出他还处于低于大学的学生党，没有全天候电子设备控制权，仅周末上线
+
+<details>
 
 ![](/others/乐子驿站/私信记录/1.jpg)
 ![](/others/乐子驿站/私信记录/2.jpg)
 ![](/others/乐子驿站/私信记录/3.jpg)
 ![](/others/乐子驿站/私信记录/4.jpg)
+
+</details>
+
+<details>
 
 ![](/others/乐子驿站/QQ主页.png)
 
@@ -53,13 +57,19 @@
 
 原文链接 https://lezi.yizhan.wiki/article/%E4%BA%8C%E4%BA%BA%E4%BC%A0#%E7%BB%99worldedit%E5%8F%91%E4%B8%AD%E6%96%87issues
 
-# 乐子群聊
+## 乐子群聊
 
-它们有一个乐子群，专门挂人、组织炸服等，在网络上造谣抹黑、妖言惑众，侵犯他人隐私、恶俗魔怔，开别人户籍，~~实在是罪大恶极~~
+它们有一个乐子社区，专门挂人、组织炸服等，在网络上造谣抹黑、妖言惑众，侵犯他人隐私、恶俗魔怔，开别人户籍，~~实在是罪大恶极~~
+
+**Q群**
 
 ![](/others/乐子驿站/乐子群聊.jpg)
 
+**QQ频道**
 
+[点击链接加入腾讯频道【大驿王朝】](https://pd.qq.com/s/93ybt5uhi?businessType=9)
+
+![](/others/乐子驿站/乐子频道.jpg)
 
 **注意**：此群与MC圈无关，与《我的世界》无关，如果你因为发言风格不符合它们预期被[扣帽子](https://lezi.yizhan.wiki/)本站概不负责
 
@@ -100,6 +110,14 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 <details>
 
 ![](/others/乐子驿站/2.jpg)
+
+</details>
+
+### 新人问了一个“小问题”，于是……
+
+<details>
+
+![](/others/乐子驿站/幽默复读机.jpg)
 
 </details>
 
@@ -156,3 +174,45 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 原文：https://github.com/maomao1996/vitepress-nav-template/issues/44
 
 ![](/others/乐子驿站/原作者回应.png)
+
+## 乐子驿站派出(疑似小号)前来谈判不料谈崩开局被管理踢出🤣
+
+<details>
+
+![](/others/乐子驿站/bottle1.jpg)
+
+</details>
+
+<details>
+
+![](/others/乐子驿站/bottle2.jpg)
+
+</details>
+
+<details>
+
+![](/others/乐子驿站/bottle3.jpg)
+
+</details>
+
+<details>
+
+![](/others/乐子驿站/bottle4.jpg)
+
+</details>
+
+<details>
+
+![](/others/乐子驿站/bottle5.jpg)
+
+</details>
+
+<details>
+
+![](/others/乐子驿站/bottle被踢.jpg)
+
+</details>
+
+## 策划、组织炸服行动
+
+我们放在另一篇讲→[戳戳我跳转](/article/1·23事件)
