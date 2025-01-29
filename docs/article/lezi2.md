@@ -107,6 +107,27 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 </details>
 
+### 《瞎子笑传之不看发布时间》
+
+《不看标题》
+《不看简介》
+
+![](/others/乐子驿站/瞎子笑传/瞎子笑传之不看发布时间.jpg)
+
+**原视频**
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=954811152&bvid=BV15W4y1Q7RD&cid=1163756681&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+<details>
+
+![](/others/乐子驿站/瞎子笑传/瞎子1.jpg)
+
+![](/others/乐子驿站/瞎子笑传/瞎子2.jpg)
+
+</details>
+
+![](/others/乐子驿站/1.jpg)
+
 <details>
 
 ![](/others/乐子驿站/2.jpg)
@@ -179,37 +200,37 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 <details>
 
-![](/others/乐子驿站/bottle1.jpg)
+![](/others/乐子驿站/bottle/bottle1.jpg)
 
 </details>
 
 <details>
 
-![](/others/乐子驿站/bottle2.jpg)
+![](/others/乐子驿站/bottle/bottle2.jpg)
 
 </details>
 
 <details>
 
-![](/others/乐子驿站/bottle3.jpg)
+![](/others/乐子驿站/bottle/bottle3.jpg)
 
 </details>
 
 <details>
 
-![](/others/乐子驿站/bottle4.jpg)
+![](/others/乐子驿站/bottle/bottle4.jpg)
 
 </details>
 
 <details>
 
-![](/others/乐子驿站/bottle5.jpg)
+![](/others/乐子驿站/bottle/bottle5.jpg)
 
 </details>
 
 <details>
 
-![](/others/乐子驿站/bottle被踢.jpg)
+![](/others/乐子驿站/bottle/bottle被踢.jpg)
 
 </details>
 
