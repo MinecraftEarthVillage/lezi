@@ -143,7 +143,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: '还是汉化大佬',
-        desc: '拉去请求把build.yml“汉化”了，是故意的还是不小心的🔫',
+        desc: '拉取请求把build.yml“汉化”了，是故意的还是不小心的🔫',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
       },
       {
