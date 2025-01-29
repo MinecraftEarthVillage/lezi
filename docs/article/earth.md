@@ -160,30 +160,48 @@ PS:据说所谓的真实姓名和照片是看了战虎发在小世界的和室�
 
 ![](/others/earth/Wu/改名了.jpg)
 
-## 持续更新
+## 在地球OL拉屎
+
+<details>
 
 ![](/others/earth/2.jpg)
 
+</details>
+
 ### 乐子团鸽鸽主动跑到地球村官号视频自报家门，不料被热心网友围攻
 
-![](/others/earth//哔哩哔哩/哔哩哔哩评论区.png)
+![](/others/earth/哔哩哔哩/哔哩哔哩评论区.png)
 
 
-![](/others/earth//哔哩哔哩/哔哩哔哩个人空间2.jpg)
+![](/others/earth/哔哩哔哩/哔哩哔哩个人空间2.jpg)
 
 
 ### 根据乐子团鸽鸽发布视频评论区的AT情况还可以得出另一位核心成员，也就是开盒“户源提供”，代号“XP2021”，用过名字：太梦云梦/太岁老人/XP+数字
 
-![](/others/earth//哔哩哔哩/哔哩哔哩个人空间1.jpg)
+![](/others/earth/哔哩哔哩/哔哩哔哩个人空间1.jpg)
 
-![](/others/earth//哔哩哔哩/逆天视频简介.jpg)
+![](/others/earth/哔哩哔哩/逆天视频简介.jpg)
 
 ### 外部链接
 MINEBBS帖子（第一人称叙事）
 
 https://www.minebbs.com/threads/22229
 
+<details>
+<summary>展开超长图</summary>
+
+![](/others/earth/哔哩哔哩/minebbs-22229页面截图.jpeg)
+
+</details>
+
 https://www.minebbs.com/threads/ol-2.26752/
+
+<details>
+<summary>展开超长图</summary>
+
+![](/others/earth/哔哩哔哩/minebbs-ol-226752.jpeg)
+
+</details>
 
 所有已收录的逆天截图，来自于潜入群聊的热心玩家
 https://www.123pan.com/s/WiuUVv-l2P0H
