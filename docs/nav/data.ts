@@ -78,7 +78,7 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '村外篇（在别的群看到的，与本服无关哈~）',
+    title: '村外篇（在别的群或朋友听说的看到的，与本服无关哈~）',
     items: [
       {
         icon: 'https://www.mcbbs.co/template/mcbbs_v2/images/logo.png',
@@ -145,6 +145,12 @@ export const NAV_DATA: NavData[] = [
         title: '还是汉化大佬',
         desc: '拉去请求把build.yml“汉化”了，是故意的还是不小心的🔫',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
+      },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8E%A9.svg',
+        title: '河源刘文勇事件',
+        desc: '本站唯一记录现实案件的??||听说其中有人是腐竹亲戚',
+        link: '/article/刘文勇事件',
       },
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8D%88.svg',
