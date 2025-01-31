@@ -190,7 +190,7 @@ https://www.minebbs.com/threads/22229
 <details>
 <summary>展开超长图</summary>
 
-![](/others/earth/哔哩哔哩/minebbs-22229页面截图.jpeg)
+![](/others/earth/minebbs-22229页面截图.jpeg)
 
 </details>
 
@@ -199,7 +199,7 @@ https://www.minebbs.com/threads/ol-2.26752/
 <details>
 <summary>展开超长图</summary>
 
-![](/others/earth/哔哩哔哩/minebbs-ol-226752.jpeg)
+![](/others/earth/minebbs-ol-226752.jpeg)
 
 </details>
 
