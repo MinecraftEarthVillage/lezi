@@ -8,6 +8,8 @@
 
 野狼在狮群里发了地球村服务器热度排第一名的截图
 
+原帖地址（我的世界找服网）：https://www.mczfw.cn/server/1985.html
+
 ![](/others/kion/地球村第一名啦.png)
 
 ![](/others/kion/地球村第一名啦2.png)
