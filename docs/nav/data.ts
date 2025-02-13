@@ -153,6 +153,12 @@ export const NAV_DATA: NavData[] = [
         link: '/article/刘文勇事件',
       },
       {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A6%81.svg',
+        title: '凯安大佬传',
+        desc: 'PVP大佬の自豪',
+        link: '/article/kion',
+      },
+      {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8D%88.svg',
         title: '真·大瓜',
         desc: '大瓜！速看，马上撤回',
