@@ -159,6 +159,12 @@ export const NAV_DATA: NavData[] = [
         link: '/article/kion',
       },
       {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%92%A9.svg',
+        title: 'winshiftprsc传奇',
+        desc: 'P嘴臭生物又污染你BLBL了',
+        link: 'https://space.bilibili.com/340810466/dynamic',
+      },
+      {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8D%88.svg',
         title: '真·大瓜',
         desc: '大瓜！速看，马上撤回',
