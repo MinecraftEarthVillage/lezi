@@ -237,3 +237,14 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 ## 策划、组织炸服行动
 
 我们放在另一篇讲→[戳戳我跳转](/article/1·23事件)
+
+## 开俩小号自嗨的逆天
+
+原文：https://github.com/AuthMe/AuthMeReloaded/issues/2907
+
+<details>
+<summary>政治敏感警告</summary>
+
+![](/others/乐子驿站/屏幕截图 2025-02-26 201607.png)
+
+</details>
