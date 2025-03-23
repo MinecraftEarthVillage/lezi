@@ -19,3 +19,6 @@
 ![](/others/Microsoft/机器人回复2.jpg)
 
 
+## （懒得解说）
+
+![](/others/Microsoft/35E94131C99DFE7A8A863B1BFB5A9185.png)
