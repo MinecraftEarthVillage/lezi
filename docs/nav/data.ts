@@ -146,12 +146,12 @@ export const NAV_DATA: NavData[] = [
         desc: '拉取请求把build.yml“汉化”了，是故意的还是不小心的🔫',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
       },
-      {
-        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8E%A9.svg',
-        title: '河源刘文勇事件',
-        desc: '本站唯一记录现实案件的??||听说其中有人是腐竹亲戚',
-        link: '/article/刘文勇事件',
-      },
+      // {    数  据  删  除
+      //   icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8E%A9.svg',
+      //   title: '河源刘文勇事件',
+      //   desc: '本站唯一记录现实案件的??||听说其中有人是腐竹亲戚',
+      //   link: '/article/刘文勇事件',
+      // },
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A6%81.svg',
         title: '凯安大佬传',
