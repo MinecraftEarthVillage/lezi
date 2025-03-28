@@ -75,6 +75,12 @@ export const NAV_DATA: NavData[] = [
         desc: '又一个炸服的，但时间更长',
         link: '/article/1·23事件',
       },
+      {
+        icon: 'https://zh.minecraft.wiki/images/TNT_JE3_BE2.png?d0206',
+        title: 'Microsoft',
+        desc: '躺尸小孩也配自称微软？！',
+        link: '/article/ms',
+      },
     ],
   },
   {

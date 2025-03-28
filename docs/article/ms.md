@@ -22,3 +22,17 @@
 ## （懒得解说）
 
 ![](/others/Microsoft/35E94131C99DFE7A8A863B1BFB5A9185.png)
+
+## 神鲸大佬
+
+手机运行DeepSeek
+
+![](/others/Microsoft/deepseek.png)
+![](/others/Microsoft/deepseek1.png)
+![](/others/Microsoft/deepseek2.png)
+
+
+## 为什么没有我
+
+![](/others/Microsoft/为什么没有我.png)
+![](/others/Microsoft/为什么没有我2.png)
