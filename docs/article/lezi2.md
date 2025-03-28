@@ -245,6 +245,6 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 <details>
 <summary>政治敏感警告</summary>
 
-![](/others/乐子驿站/屏幕截图 2025-02-26 201607.png)
+![](/others/乐子驿站/政治敏感警告.png)
 
 </details>
