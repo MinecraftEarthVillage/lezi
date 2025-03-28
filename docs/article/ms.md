@@ -27,9 +27,9 @@
 
 手机运行DeepSeek
 
-![](/others/Microsoft/deepseek.png)
-![](/others/Microsoft/deepseek1.png)
-![](/others/Microsoft/deepseek2.png)
+![](/others/Microsoft/deepseek大佬.png)
+![](/others/Microsoft/deepseek1.jpg)
+![](/others/Microsoft/deepseek2.jpg)
 
 
 ## 为什么没有我
