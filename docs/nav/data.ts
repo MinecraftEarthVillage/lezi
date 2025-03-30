@@ -81,6 +81,12 @@ export const NAV_DATA: NavData[] = [
         desc: '躺尸小孩也配自称微软？！',
         link: '/article/ms',
       },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%85.svg',
+        title: '野虎传奇',
+        desc: '虎哥威武',
+        link: '/article/huzi',
+      },
     ],
   },
   {
