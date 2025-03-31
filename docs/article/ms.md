@@ -3,21 +3,30 @@
 ## 曾是地球村管理
 
 因为贡献了自己的云系统运行元宇宙（小游戏服务器）而成为团队成员，但因为几乎对自己服务器完全不管不理导致多次元宇宙长时间离线，对于其它管理的联系也毫无反应，最终被踢出团队，元宇宙服务器转而与地球村服务器共同机器运行。
+<details>
 
 ![](/others/Microsoft/曾是副管理.jpg)
+</details>
 
 ## 和机器人吵架
+<details>
 
 ![](/others/Microsoft/1.jpg)
+</details>
+<details>
 
 ![](/others/Microsoft/对着机器人私信.jpg)
+</details>
 
 ## 最后机主看不下去了
+
+<details>
 
 ![](/others/Microsoft/机器人回复.jpg)
 
 ![](/others/Microsoft/机器人回复2.jpg)
 
+<details>
 
 ## （懒得解说）
 
