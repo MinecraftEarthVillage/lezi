@@ -36,3 +36,14 @@
 
 ![](/others/Microsoft/为什么没有我.png)
 ![](/others/Microsoft/为什么没有我2.png)
+
+## 还是民法典大佬
+
+![](/others/Microsoft/违法.png)
+
+
+## 还是小号大佬
+
+谁都知道这俩都是你账号吧，顶多骗骗小孩
+
+![](/others/Microsoft/小号.png)
