@@ -80,12 +80,4 @@ export default defineConfig({
   vite: {
     plugins: [MarkdownPreview()],
   },
-  plugins: [
-    Markdown({
-      markdownItOptions: {
-        html: true, // 允许 HTML 标签
-        xhtmlOut: false, // 不强制闭合标签
-      }
-    })
-  ]
 })
