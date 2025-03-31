@@ -26,7 +26,7 @@
 
 ![](/others/Microsoft/机器人回复2.jpg)
 
-<details>
+</details>
 
 ## （懒得解说）
 
