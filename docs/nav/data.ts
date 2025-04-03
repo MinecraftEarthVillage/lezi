@@ -173,7 +173,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%92%A9.svg',
         title: 'winshiftprsc传奇',
-        desc: 'P嘴臭生物又污染你BLBL了',
+        desc: '嘴臭生物又污染你BLBL了',
         link: 'https://space.bilibili.com/340810466/dynamic',
       },
       {
@@ -181,6 +181,12 @@ export const NAV_DATA: NavData[] = [
         title: '真·大瓜',
         desc: '大瓜！速看，马上撤回',
         link: '/article/真大瓜',
+      },
+      {
+        icon: '',
+        title: '太岁老人笑传',
+        desc: '大懒得评价',
+        link: '/article/太岁老人',
       },
     ],
   },
