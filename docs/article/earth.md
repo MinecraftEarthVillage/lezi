@@ -205,3 +205,25 @@ https://www.minebbs.com/threads/ol-2.26752/
 
 所有已收录的逆天截图，来自于潜入群聊的热心玩家
 https://www.123pan.com/s/WiuUVv-l2P0H
+
+# 可惜团伙作案暂时告一段落了
+
+## 接下来又是团鸽鸽章节
+
+### 某唐氏小孩诋毁别人服务器还要开盒玩服务器的人
+
+![](/others/earth/诋毁服务器.jpg)
+
+### 威胁DDOS
+
+<details>
+<summary>政治敏感警告⚠</summary>
+
+抱歉了，有些内容太过于炸裂了，只能加码了
+
+![](/others/earth/tuan/ddos1.jpg)
+![](/others/earth/tuan/ddos2.jpg)
+
+</details>
+
+![](/others/earth/tuan/ddos3.jpg)
