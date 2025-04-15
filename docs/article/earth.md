@@ -212,7 +212,7 @@ https://www.123pan.com/s/WiuUVv-l2P0H
 
 ### 某唐氏小孩诋毁别人服务器还要开盒玩服务器的人
 
-![](/others/earth/诋毁服务器.jpg)
+![](/others/earth/tuan/诋毁服务器.jpg)
 
 ### 威胁DDOS
 
