@@ -15,13 +15,13 @@ export const NAV_DATA: NavData[] = [
         desc: '看不顺就骂~讲不过就摇人炸~禁言踢群就是神权~我们有盒武器！谁也打败不了我们~',
         link: '/article/earth',
       },
-            {
+      {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%BA.svg',
         title: '2人传',
         desc: '双主角模式|唯一有当事人本人参与编写（?）|傻狼自己的糗事',
         link: '/article/二人传',
       },
-       {
+      {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%92.svg',
         title: 'XSDE传',
         desc: '尽出馊主意',
@@ -76,7 +76,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/1·23事件',
       },
       {
-        icon: 'https://zh.minecraft.wiki/images/TNT_JE3_BE2.png?d0206',
+        icon: 'https://pic.pngsucai.com/00/00/18/5f40dc495bc626d6.webp',
         title: 'Microsoft',
         desc: '躺尸小孩也配自称微软？！',
         link: '/article/ms',
@@ -110,7 +110,7 @@ export const NAV_DATA: NavData[] = [
         desc: '不是黑影！不是黑影！',
         link: '/article/嘿鹰',
       },
-     {
+      {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A7%A8.svg',
         title: 'pankuler传',
         desc: '之前Minebbs群看到的',
@@ -158,24 +158,14 @@ export const NAV_DATA: NavData[] = [
       //   desc: '本站唯一记录现实案件的??||听说其中有人是腐竹亲戚',
       //   link: '/article/刘文勇事件',
       // },
-      {
-        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A6%81.svg',
-        title: '凯安大佬传',
-        desc: 'PVP大佬の自豪',
-        link: '/article/kion',
-      },
+
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%92%A9.svg',
         title: 'winshiftprsc传奇',
         desc: '嘴臭生物又污染你BLBL了',
         link: 'https://space.bilibili.com/340810466/dynamic',
       },
-      {
-        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%85.svg',
-        title: '野虎传奇',
-        desc: '虎哥威武',
-        link: '/article/huzi',
-      },
+
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8D%88.svg',
         title: '真·大瓜',
@@ -187,6 +177,29 @@ export const NAV_DATA: NavData[] = [
         title: '太岁老人笑传',
         desc: '大懒得评价',
         link: '/article/太岁老人',
+      },
+    ],
+  },
+  {
+    title: '福瑞专区',
+    items: [
+      {
+        icon: '',
+        title: '新二人传',
+        desc: '论“滑稽”与“Doge”的重要性',
+        link: '/article/RoyalLion'
+      },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%85.svg',
+        title: '野虎传奇',
+        desc: '虎哥威武',
+        link: '/article/huzi',
+      },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A6%81.svg',
+        title: '凯安大佬传',
+        desc: 'PVP大佬の自豪',
+        link: '/article/kion',
       },
     ],
   },
