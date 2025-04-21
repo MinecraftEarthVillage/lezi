@@ -204,6 +204,18 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
+    title: '？？？',
+    items: [
+      {
+        icon: 'https://cdn-0.emojis.wiki/emoji-pics/apple/taiwan-apple.png',
+        title: '反动者',
+        desc: '赖清德版《孤勇者》改编翻唱',
+        link: '/article/taiwan'
+      },
+
+    ],
+  },
+  {
     title: '联系',
     items: [
       {
