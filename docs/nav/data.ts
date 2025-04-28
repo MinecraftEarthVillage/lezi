@@ -178,6 +178,12 @@ export const NAV_DATA: NavData[] = [
         desc: '大懒得评价',
         link: '/article/太岁老人',
       },
+      {
+        icon: '',
+        title: '微篇：二胡传',
+        desc: '我可是大闲人',
+        link: '/article/二胡传',
+      },
     ],
   },
   {
