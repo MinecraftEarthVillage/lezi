@@ -84,4 +84,11 @@
 
 ![](/others/ashen传/乌鲁木齐.png)
 
+## 唐氏Ashen不会用电脑，只剩下一个板砖了
+
+![](/others/ashen传/手机玩MC.png)
+
+你不用1.21会死啊
+
+猜你再找：[1.21.3的跨版本模组](https://www.curseforge.com/minecraft/mc-mods/viafabric/files/all?page=1&pageSize=20&version=1.21.3)
 ## 持续更新中
