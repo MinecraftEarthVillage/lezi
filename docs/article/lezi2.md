@@ -160,7 +160,7 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 </details>
 
-### 典型殖人发言
+<!-- ### 典型殖人发言
 
 <details>
 
@@ -176,7 +176,7 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1656728206&bvid=BV1UE421c7zR&cid=25656363767&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-什么？你觉得这个视频这个UP也是乐子。好的，我骂的就是你这种货色乐色
+什么？你觉得这个视频这个UP也是乐子。好的，我骂的就是你这种货色乐色 -->
 
 ## 挂人家实名信息和住址等
 
@@ -196,7 +196,7 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 
 
-# 后续
+<!-- # 后续
 
 ## 原作者回应
 
@@ -204,7 +204,7 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 原文：https://github.com/maomao1996/vitepress-nav-template/issues/44
 
-![](/others/乐子驿站/原作者回应.png)
+![](/others/乐子驿站/原作者回应.png) -->
 
 ## 乐子驿站派出(疑似小号)前来谈判不料谈崩开局被管理踢出🤣
 
