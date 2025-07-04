@@ -7,7 +7,6 @@
   "scripts": {
     "dev": "vitepress dev docs --port=8732",
     "build": "vitepress build docs --config ignoreDeadLinks=true",
-    
     "preview": "vitepress preview docs --port 8730",
     "prepare": "husky install",
     "format": "prettier --write ."
