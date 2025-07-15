@@ -82,7 +82,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/ms',
       },
       {
-        icon: 'https://i0.hdslb.com/bfs/face/member/noface.jpg@240w_240h_1c_1s_!web-avatar-nav.avif',
+        icon: 'https://i0.hdslb.com/bfs/face/member/noface.jpg',
         title: '哔哩哔哩的“黑幕”',
         desc: '建党节视频也封？阿B相思了',
         link: '/article/bilibili',
