@@ -76,7 +76,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/1·23事件',
       },
       {
-        icon: 'https://pic.pngsucai.com/00/00/18/5f40dc495bc626d6.webp',
+        icon: '/others/Microsoft/微软.png',
         title: 'Microsoft',
         desc: '躺尸小孩也配自称微软？！',
         link: '/article/ms',
