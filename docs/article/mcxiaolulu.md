@@ -27,7 +27,7 @@
 ## 第三次进群
 
 ![](/others/mcxiaolulu/第三次进群.png)
-![](/others/mcxiaolulu/第三次进群2.png)
+![](/others/mcxiaolulu/第三次进群2.jpg)
 
 ## ？？？
 
