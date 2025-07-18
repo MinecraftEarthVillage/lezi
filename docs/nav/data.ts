@@ -82,6 +82,12 @@ export const NAV_DATA: NavData[] = [
         link: '/article/ms',
       },
       {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%9A%85.svg',
+        title: 'mcxiaolulu传',
+        desc: 'MTR圈子抽象小孩',
+        link: '/article/mcxiaolulu',
+      },
+      {
         icon: 'https://i0.hdslb.com/bfs/face/member/noface.jpg',
         title: '哔哩哔哩的“黑幕”',
         desc: '建党节视频也封？阿B相思了',
