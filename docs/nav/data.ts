@@ -164,6 +164,12 @@ export const NAV_DATA: NavData[] = [
         desc: '拉取请求把build.yml“汉化”了，是故意的还是不小心的🔫',
         link: 'https://github.com/Perfare/Zygisk-Il2CppDumper/pull/169',
       },
+      {
+        icon: 'https://ts1.tc.mm.bing.net/th/id/OIP-C.NtrAAeKWYOvFfAY6dYon0AHaHa?rs=1&pid=ImgDetMain&o=7&rm=3',
+        title: '枕木小传',
+        desc: '别人转发的，看到挺有意思的',
+        link: '/article/枕木',
+      },
       // {    数  据  删  除
       //   icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8E%A9.svg',
       //   title: '河源刘文勇事件',
