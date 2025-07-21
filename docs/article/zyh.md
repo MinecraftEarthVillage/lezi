@@ -8,7 +8,13 @@
 
 ## ZYH的QQ主页
 
+### 大号
+
 ![](/others/zyh/QQ.jpg)
+
+### 小号
+
+![](/others/zyh/QQ2.jpg)
 
 ## 记录1
 
