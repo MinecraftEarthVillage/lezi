@@ -170,6 +170,12 @@ export const NAV_DATA: NavData[] = [
         desc: '别人转发的，看到挺有意思的',
         link: '/article/枕木',
       },
+      {
+        icon: '',
+        title: '张俊涵攻击MTR服务器',
+        desc: '别人转发的，非常逆天',
+        link: '/article/zyh',
+      },
       // {    数  据  删  除
       //   icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8E%A9.svg',
       //   title: '河源刘文勇事件',
