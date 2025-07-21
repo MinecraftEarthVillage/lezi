@@ -55,6 +55,12 @@
 
 ![](/others/zyh/三年级.jpg)
 
+## 新记录3
+
+![](/others/zyh/记录3.jpg)
+![](/others/zyh/故意说三年级.jpg)
+![](/others/zyh/国籍.jpg)
+
 ## 新记录4
 
 ![](/others/zyh/记录4-1.png)
