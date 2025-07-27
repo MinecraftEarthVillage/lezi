@@ -78,3 +78,8 @@
 ![](/others/钻石蛋/4-4.jpg)
 
 </details>
+
+## QQ放后面
+
+![](/others/钻石蛋/QQ.jpg)
+![](/others/钻石蛋/QQ空间.jpg)
