@@ -4,13 +4,13 @@
 
 ## 第1幕：不缺技术的硬汉
 
-![](/others/article/钻石蛋/1.jpg)
+![](/others/钻石蛋/1.jpg)
 
 ## 第2幕：《你就帮人帮到底吧，每个月送我几十块钱嘿嘿嘿》
 
 <details>
 
-![](/others/article/钻石蛋/2.jpg)
+![](/others/钻石蛋/2.jpg)
 
 </details>
 
@@ -18,27 +18,27 @@
 
 <details>
 
-![](/others/article/钻石蛋/3.jpg)
+![](/others/钻石蛋/3.jpg)
 
 </details>
 
 ### 钻石蛋服务器群公告截图
 
-![](/others/article/钻石蛋/3-2.jpg)
+![](/others/钻石蛋/3-2.jpg)
 
 ## 第4幕：捐钱就开跑酷小游戏
 
 ~~个人感觉赞助没毛病~~
 
-![](/others/article/钻石蛋/3-1.jpg)
+![](/others/钻石蛋/3-1.jpg)
 
 ## 第5幕：。。。
 
 <details>
 
-![](/others/article/钻石蛋/4.jpg)
+![](/others/钻石蛋/4.jpg)
 
-![](/others/article/钻石蛋/4-私信截图大图.jpg)
+![](/others/钻石蛋/4-私信截图大图.jpg)
 
 </details>
 
@@ -48,7 +48,7 @@
 
 <details>
 
-![](/others/article/钻石蛋/4-1.jpg)
+![](/others/钻石蛋/4-1.jpg)
 
 </details>
 
@@ -60,14 +60,14 @@
 
 <details>
 
-![](/others/article/钻石蛋/4-2.jpg)
+![](/others/钻石蛋/4-2.jpg)
 
 </details>
 
 <details>
 
-![](/others/article/钻石蛋/4-3.jpg)
-![](/others/article/钻石蛋/4-3-3.jpg)
+![](/others/钻石蛋/4-3.jpg)
+![](/others/钻石蛋/4-3-3.jpg)
 
 </details>
 
@@ -75,6 +75,6 @@
 
 <details>
 
-![](/others/article/钻石蛋/4-4.jpg)
+![](/others/钻石蛋/4-4.jpg)
 
 </details>
