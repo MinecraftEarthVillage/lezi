@@ -176,6 +176,12 @@ export const NAV_DATA: NavData[] = [
         desc: '别人转发的，非常逆天',
         link: '/article/zyh',
       },
+      {
+        icon: 'https://i1.hdslb.com/bfs/face/4a6b74c3e654efdd73dde3df90ca141f6ee16836.jpg',
+        title: 'DiamondEgg',
+        desc: '别人转发的，非常逆天',
+        link: '/article/diamondegg',
+      },
       // {    数  据  删  除
       //   icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8E%A9.svg',
       //   title: '河源刘文勇事件',
