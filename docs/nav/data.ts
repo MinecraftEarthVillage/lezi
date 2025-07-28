@@ -177,7 +177,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/zyh',
       },
       {
-        icon: '/article/钻石蛋/哔哩哔哩头像.jpg',
+        icon: '/others/钻石蛋/哔哩哔哩头像.jpg',
         title: 'DiamondEgg',
         desc: '别人转发的，非常逆天',
         link: '/article/diamondegg',
