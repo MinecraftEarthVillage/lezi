@@ -269,6 +269,8 @@ https://lezi.yizhan.wiki/article/NiceHello%E4%BC%A0
 
 **你是看不出来这是个假的啊🤣居然还这么认真的回复**
 
+![](/others/乐子驿站/被冒充了.png)
+
 ~~等等，不对劲，重点是—— 地球村被冒充了？！~~😱😱😱
 
 模仿者：https://github.com/MincraftEarthvillage
