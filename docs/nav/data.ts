@@ -93,6 +93,12 @@ export const NAV_DATA: NavData[] = [
         desc: '建党节视频也封？阿B相思了',
         link: '/article/bilibili',
       },
+      {
+        icon: 'https://avatars.githubusercontent.com/u/98224449?v=4',
+        title: '无色树枝背叛事件',
+        desc: '想不到小破球也有背刺的一天',
+        link: '/article/wuse',
+      },
     ],
   },
   {

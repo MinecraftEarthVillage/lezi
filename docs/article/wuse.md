@@ -8,10 +8,14 @@
 
 ![](/others/wuse/删除.png)
 ![](/others/wuse/删除2.png)
+![](/others/wuse/留下的话.png)
+
 
 并且他没有告知我们这样做并且为何这样做
 
 ## 群聊天记录
+
+一直装谜语人
 
 ![](/others/wuse/群聊天记录.png)
 
