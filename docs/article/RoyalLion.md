@@ -11,6 +11,7 @@
 ### 记录1
 
 <details>
+
 <summary>展开长图</summary>
 
 ![](/others/RoyalLion/1.png)
