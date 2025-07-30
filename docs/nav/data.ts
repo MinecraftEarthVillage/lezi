@@ -214,6 +214,12 @@ export const NAV_DATA: NavData[] = [
         desc: '我可是大闲人',
         link: '/article/二胡传',
       },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%93%A6%EF%B8%8F.svg',
+        title: 'XXS扬言开盒全网',
+        desc: '快点🤓赶紧的',
+        link: '/article/XXS全网开盒',
+      },
     ],
   },
   {
