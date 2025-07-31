@@ -95,6 +95,10 @@ QQ：1162408387
 ![](/others/wuse/爱发电的事情2.png)
 ![](/others/wuse/爱发电的事情3.png)
 
+### 删除网页地图仓库
+
+![](/others/wuse/删除网页地图仓库.png)
+
 
 ## 离去
 
