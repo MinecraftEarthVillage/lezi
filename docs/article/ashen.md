@@ -95,4 +95,7 @@
 你不用1.21会死啊
 
 猜你在找：[1.21.3的跨版本模组](https://www.curseforge.com/minecraft/mc-mods/viafabric/files/all?page=1&pageSize=20&version=1.21.3)
-## 持续更新中
+
+## 升职！（？）
+
+因[无色叛逃事件](/article/wuse)产生管理员空缺，因此~~敬爱的领袖金战虎同志任命最钟橙且建设最多、游玩时间最长的玩家之一~~阿参成为新任管理！！！
