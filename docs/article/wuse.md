@@ -95,10 +95,41 @@ QQ：1162408387
 ![](/others/wuse/爱发电的事情2.png)
 ![](/others/wuse/爱发电的事情3.png)
 
+**当初提出让他管理官方号**
+
+<details>
+
+![](/others/wuse/爱发电的事情0.png)
+![](/others/wuse/爱发电的事情1.png)
+
+</details>
+
 ### 删除网页地图仓库
 
 ![](/others/wuse/删除网页地图仓库.png)
 
+
+## 玩家评价
+
+![](/others/wuse/不友好1.png)
+
+### 此前一些不和谐发言
+
+![](/others/wuse/不友好2.png)
+![](/others/wuse/不友好3.png)
+![](/others/wuse/拒绝处理BUG.png)
+
+## 发视频挂人
+
+~~得了唐氏的黑化的~~前管理被赶出后在哔哩哔哩发布视频，否认自己的过错
+
+网址：https://www.bilibili.com/video/BV1xwt1zoEwD
+
+并且连带服务器其它玩家也抹黑了
+
+![](/others/wuse/哔哩哔哩.png)
+
+有没有一种可能那些都是玩家自发建造的公路🤭跟服务器官方基本没关系
 
 ## 离去
 
