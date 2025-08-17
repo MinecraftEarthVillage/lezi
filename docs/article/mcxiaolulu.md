@@ -57,7 +57,7 @@
 ![](/others/mcxiaolulu/mcmod/注册时间.png)
 ![](/others/mcxiaolulu/mcmod/注册时间2.png)
 
-## 压迫群成员
+## 《压迫群成员》
 
 <summary>啊对对对，没错，我们实行的是曹县化管理</summary>
 <details>
@@ -109,3 +109,7 @@
 ![](/others/mcxiaolulu/压迫群成员/14.png)
 
 </details>
+
+## 宣传其它服务器
+
+![](/others/mcxiaolulu/宣传其它服务器.png)
