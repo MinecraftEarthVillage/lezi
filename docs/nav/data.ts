@@ -75,12 +75,12 @@ export const NAV_DATA: NavData[] = [
         desc: '又一个炸服的，但时间更长',
         link: '/article/1·23事件',
       },
-      {
-        icon: '/others/Microsoft/微软.png',
-        title: 'Microsoft',
-        desc: '躺尸小孩也配自称微软？！',
-        link: '/article/ms',
-      },
+      // {
+      //   icon: '/others/Microsoft/微软.png',
+      //   title: 'Microsoft',
+      //   desc: '躺尸小孩也配自称微软？！',
+      //   link: '/article/ms',
+      // },
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%9A%85.svg',
         title: 'mcxiaolulu传',
