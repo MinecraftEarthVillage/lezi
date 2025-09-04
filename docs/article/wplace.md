@@ -30,6 +30,7 @@ https://tieba.baidu.com/home/main?id=tb.1.59b377bf.xJ47EXv8hig6KBZzTQWT4w&fr=pb
 
 ![](/others/WPLACE/E/哇塞原来是因为这个吗.jpg)
 ![](/others/WPLACE/E/原图.png)
+![](/others/WPLACE/E/2.png)
 
 ## 大佬QQ
 
