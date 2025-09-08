@@ -232,6 +232,12 @@ export const NAV_DATA: NavData[] = [
         desc: '快点🤓赶紧的',
         link: '/article/XXS全网开盒',
       },
+      {
+        icon: '/others/一鸣超人/头像.jpg',
+        title: '一鸣焯壬传',
+        desc: 'WPLACE超级熊孩子',
+        link: '/article/一鸣超人传',
+      },
     ],
   },
   {
