@@ -238,6 +238,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'WPLACE超级熊孩子',
         link: '/article/一鸣超人传',
       },
+      {
+        icon: '',
+        title: 'BPLZ传',
+        desc: 'WPLACE又一个超级熊孩子',
+        link: 'http://earthvillage.top/BPLZ/',
+      },
     ],
   },
   {
