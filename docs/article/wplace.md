@@ -24,7 +24,7 @@ https://tieba.baidu.com/home/main?id=tb.1.59b377bf.xJ47EXv8hig6KBZzTQWT4w&fr=pb
 
 ![](/others/WPLACE/E/0.5.png)
 
-![](/others/WPLACE/E/1.png)
+![](/others/WPLACE/E/1.jpg)
 
 ### 哇塞原来是因为这个吗
 
@@ -32,9 +32,9 @@ https://tieba.baidu.com/home/main?id=tb.1.59b377bf.xJ47EXv8hig6KBZzTQWT4w&fr=pb
 ![](/others/WPLACE/E/原图.png)
 ![](/others/WPLACE/E/2.png)
 
-## 欸我怎么又被拉回来了
+## 欸我怎么又被拉回来了🤪
 
-## 欸我怎么又被踢了
+## 欸我怎么又被踢了🤪🤪
 
 ![](/others/WPLACE/神权2.png)
 
