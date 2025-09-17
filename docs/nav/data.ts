@@ -239,6 +239,12 @@ export const NAV_DATA: NavData[] = [
         link: '/article/一鸣超人传',
       },
       {
+        icon: '/others/WPLACE/群头像.png',
+        title: '“互助群”传奇',
+        desc: '神权这一块',
+        link: '/article/wplace',
+      },
+      {
         icon: '',
         title: 'BPLZ传',
         desc: 'WPLACE又一个超级熊孩子',
