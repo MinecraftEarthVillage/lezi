@@ -32,7 +32,9 @@ https://tieba.baidu.com/home/main?id=tb.1.59b377bf.xJ47EXv8hig6KBZzTQWT4w&fr=pb
 ![](/others/WPLACE/E/原图.png)
 ![](/others/WPLACE/E/2.png)
 
-## 欸我怎么又被拉回来了🤪
+## 欸我怎么又回来了🤪
+
+![](/others/WPLACE/我怎么又被拉回来了.jpg)
 
 ## 欸我怎么又被踢了🤪🤪
 
