@@ -36,7 +36,7 @@ https://tieba.baidu.com/home/main?id=tb.1.59b377bf.xJ47EXv8hig6KBZzTQWT4w&fr=pb
 
 ## 欸我怎么又被踢了🤪🤪
 
-![](/others/WPLACE/神权2.png)
+![](/others/WPLACE/神权2.jpg)
 
 ## 哇塞又是因为这个吗
 
