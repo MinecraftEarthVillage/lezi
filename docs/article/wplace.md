@@ -48,6 +48,11 @@ https://tieba.baidu.com/home/main?id=tb.1.59b377bf.xJ47EXv8hig6KBZzTQWT4w&fr=pb
 
 ![](/others/WPLACE/赖清德.jpg)
 
+## 乐子断章取义时间也不改一下，这是第一次被踢之前。与本次基本无关
+
+![](/others/WPLACE/贴吧1.jpg)
+![](/others/WPLACE/贴吧2.jpg)
+
 ## 大佬QQ
 
 ![](/others/WPLACE/南瓜/QQ.jpg)
