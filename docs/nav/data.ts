@@ -241,8 +241,9 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '/others/WPLACE/群头像.png',
         title: '“互助群”传奇',
-        desc: '神权这一块',
-        link: '/article/wplace',
+        desc: '这篇文档坠机了，别问，不知道',
+        //desc: '神权这一块',
+        link: 'https://www.mcmod.cn/%E4%BD%A0%E5%9C%A8%E6%9C%9F%E5%BE%85%E4%BB%80%E4%B9%88',
       },
       {
         icon: '',
