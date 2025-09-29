@@ -250,6 +250,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'WPLACE又一个超级熊孩子',
         link: 'http://earthvillage.top/BPLZ/',
       },
+      {
+        icon: '',
+        title: 'cirno传',
+        desc: '头像正确，游戏正确',
+        link: '/article/cirno',
+      },
     ],
   },
   {
