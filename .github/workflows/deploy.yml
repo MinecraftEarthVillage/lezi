@@ -53,7 +53,7 @@ jobs:
       - name: Build
         env:
           APP_BASE_PATH: /${{ github.repository }}
-        run: pnpm install && pnpm run build
+        run: pnpm install --no-frozen-lockfile && pnpm run build
 
       # 部署
       - name: Deploy
