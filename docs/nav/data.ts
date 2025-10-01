@@ -241,9 +241,8 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '/others/WPLACE/群头像.png',
         title: '“互助群”传奇',
-        desc: '这篇文档坠机了，别问，不知道',
-        //desc: '神权这一块',
-        link: 'https://www.mcmod.cn/%E4%BD%A0%E5%9C%A8%E6%9C%9F%E5%BE%85%E4%BB%80%E4%B9%88',
+        desc: '神权这一块',
+        link: '/article/wplace',
       },
       {
         icon: '',
@@ -290,6 +289,12 @@ export const NAV_DATA: NavData[] = [
         title: '反动者',
         desc: '赖清德版《孤勇者》改编翻唱',
         link: '/article/taiwan'
+      },
+      {
+        icon: 'https://cdn-0.emojis.wiki/emoji-pics/apple/taiwan-apple.png',
+        title: '《东亚孤岛生态观察》',
+        desc: '台湾外来及变异物种泛滥实录',
+        link: '/article/台湾特色生物'
       },
 
     ],
