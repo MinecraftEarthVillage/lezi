@@ -7,8 +7,29 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '村内篇',
+    title: '村内大佬篇 - 正面事迹',
     items: [
+
+
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%9B%A3.svg',
+        title: '阿参传',
+        desc: '阿参终于来到自己梦寐以求的名人堂',
+        link: '/article/ashen',
+      },
+
+      {
+        icon: 'https://avatars.githubusercontent.com/u/98224449?v=4',
+        title: '无色树枝传奇的一生',
+        desc: '想不到小破球也有背刺的一天',
+        link: '/article/wuse',
+      },
+
+    ],
+  },
+  {
+    title: '村内傻逼篇 - 负面报道',
+    items:[
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8C%8F.svg',
         title: '抽象魔怔地球传',
@@ -33,7 +54,8 @@ export const NAV_DATA: NavData[] = [
         desc: '听我说，把服务器的模组删掉，换我推荐的这个，好！',
         link: '/article/zAilyn',
       },
-      {
+
+            {
         icon: 'https://www.emojiall.com/images/120/joypixels/0033-20e3.png',
         title: '三人传',
         desc: '来自上古时期的久远资料',
@@ -63,13 +85,7 @@ export const NAV_DATA: NavData[] = [
         desc: '弱智新人迷惑发言大全',
         link: '/article/弱智新人大赏',
       },
-      {
-        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%9B%A3.svg',
-        title: '阿参传',
-        desc: '阿参终于来到自己梦寐以求的名人堂',
-        link: '/article/ashen',
-      },
-      {
+            {
         icon: 'https://zh.minecraft.wiki/images/TNT_JE3_BE2.png?d0206',
         title: '1·23攻击事件',
         desc: '又一个炸服的，但时间更长',
@@ -87,19 +103,7 @@ export const NAV_DATA: NavData[] = [
         desc: 'MTR圈子抽象小孩',
         link: '/article/mcxiaolulu',
       },
-      {
-        icon: 'https://i0.hdslb.com/bfs/face/member/noface.jpg',
-        title: '哔哩哔哩的“黑幕”',
-        desc: '建党节视频也封？阿B相思了',
-        link: '/article/bilibili',
-      },
-      {
-        icon: 'https://avatars.githubusercontent.com/u/98224449?v=4',
-        title: '无色树枝背叛事件',
-        desc: '想不到小破球也有背刺的一天',
-        link: '/article/wuse',
-      },
-    ],
+    ]
   },
   {
     title: '村外篇（在别的群或朋友听说的看到的，与本服无关哈~）',
@@ -179,13 +183,13 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '',
         title: '张俊涵攻击MTR服务器',
-        desc: '别人转发的，非常逆天',
+        desc: '',
         link: '/article/zyh',
       },
       {
         icon: '/others/钻石蛋/哔哩哔哩头像.jpg',
         title: 'DiamondEgg',
-        desc: '别人转发的，非常逆天',
+        desc: '',
         link: '/article/diamondegg',
       },
       {
@@ -250,12 +254,6 @@ export const NAV_DATA: NavData[] = [
         desc: 'WPLACE又一个超级熊孩子',
         link: 'http://earthvillage.top/BPLZ/',
       },
-      {
-        icon: '',
-        title: 'cirno传',
-        desc: '头像正确，游戏正确',
-        link: '/article/cirno',
-      },
     ],
   },
   {
@@ -296,7 +294,12 @@ export const NAV_DATA: NavData[] = [
         desc: '台湾外来及变异物种泛滥实录',
         link: '/article/台湾特色生物'
       },
-
+      {
+        icon: 'https://i0.hdslb.com/bfs/face/member/noface.jpg',
+        title: '哔哩哔哩的“黑幕”',
+        desc: '建党节视频也封？阿B相思了',
+        link: '/article/bilibili',
+      },
     ],
   },
   {
