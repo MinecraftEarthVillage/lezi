@@ -300,6 +300,12 @@ export const NAV_DATA: NavData[] = [
         desc: '建党节视频也封？阿B相思了',
         link: '/article/bilibili',
       },
+      {
+        icon: 'https://fonts.gstatic.com/s/e/notoemoji/latest/1f1ef_1f1f5/emoji.svg',
+        title: 'YB-Neri传',
+        desc: '小日本的狗',
+        link: '/article/YB-Neri',
+      },
     ],
   },
   {
