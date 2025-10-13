@@ -216,3 +216,11 @@ _
 ![](/others/哔哩哔哩/黑影/黑影与客服/22.png)
 
 </details>
+
+## 举报结果：永远不删视频
+
+视频网址：https://www.bilibili.com/video/BV1XAn6zNE5J/
+
+![](/others/哔哩哔哩/色情低俗BV1XAn6zNE5J/BV1XAn6zNE5J（1）.png)
+![](/others/哔哩哔哩/色情低俗BV1XAn6zNE5J/BV1XAn6zNE5J（2）.png)
+![](/others/哔哩哔哩/色情低俗BV1XAn6zNE5J/BV1XAn6zNE5J（3）.png)
