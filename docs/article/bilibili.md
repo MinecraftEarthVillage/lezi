@@ -222,10 +222,17 @@ _
 视频网址：https://www.bilibili.com/video/BV1XAn6zNE5J/
 
 ![](/others/哔哩哔哩/色情低俗BV1XAn6zNE5J/BV1XAn6zNE5J（1）.png)
+
+<details>
+<summary>重口，慎看！</summary>
+
 ![](/others/哔哩哔哩/色情低俗BV1XAn6zNE5J/BV1XAn6zNE5J（2）.png)
 ![](/others/哔哩哔哩/色情低俗BV1XAn6zNE5J/BV1XAn6zNE5J（3）.png)
 
+</details>
+
 <details>
+
 ![](/others/哔哩哔哩/色情低俗BV1XAn6zNE5J/12377举报.png)
 </details>
 
