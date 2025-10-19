@@ -69,3 +69,5 @@ https://tieba.baidu.com/home/main?id=tb.1.59b377bf.xJ47EXv8hig6KBZzTQWT4w&fr=pb
 
 ![](/others/WPLACE/官方/discord被踢出.png)
 
+看来“互助群”能有那样的行为不奇怪，是和官方一个模子刻出来罢了
+
