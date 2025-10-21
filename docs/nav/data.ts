@@ -306,6 +306,12 @@ export const NAV_DATA: NavData[] = [
         desc: '小日本的狗',
         link: '/article/YB-Neri',
       },
+      {
+        icon: '/others/4399/图标.gif',
+        title: '4399传',
+        desc: '神权这一块',
+        link: '/article/4399',
+      },
     ],
   },
   {
