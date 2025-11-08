@@ -280,6 +280,23 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
+    title: '西普特别区',
+    items: [
+      {
+        icon: 'https://www.emojiall.com/images/120/joypixels/0030.png',
+        title: '零氪小西普传',
+        desc: '',
+        link: '/article/零氪小西普'
+      },
+      {
+        icon: '/others/代打哥/头像.jpg',
+        title: '代打哥传',
+        desc: '',
+        link: '/article/代打哥',
+      },
+    ],
+  },
+  {
     title: '？？？',
     items: [
       {
