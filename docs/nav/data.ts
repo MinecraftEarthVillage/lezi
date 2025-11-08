@@ -294,6 +294,12 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: '/article/代打哥',
       },
+      {
+        icon: '/others/＇/头像.jpg',
+        title: '代打哥二号',
+        desc: '一天内居然有两个素材',
+        link: '/article/代打哥二号',
+      },
     ],
   },
   {
