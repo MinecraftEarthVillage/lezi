@@ -301,7 +301,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/代打哥二号',
       },
       {
-        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%BA.svg',
+        icon: 'https://www.emojiall.com/images/120/joypixels/0032-20e3.png',
         title: '二人转',
         desc: '双主角模式',
         link: '/article/西普二人转',
