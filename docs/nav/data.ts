@@ -300,6 +300,12 @@ export const NAV_DATA: NavData[] = [
         desc: '一天内居然有两个素材',
         link: '/article/代打哥二号',
       },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%90%BA.svg',
+        title: '二人转',
+        desc: '双主角模式',
+        link: '/article/西普二人转',
+      },
     ],
   },
   {
