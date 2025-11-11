@@ -289,9 +289,9 @@ export const NAV_DATA: NavData[] = [
         link: '/article/零氪小西普'
       },
       {
-        icon: '/others/代打哥/头像.jpg',
+        icon: '/others/接BOSS/头像.jpg',
         title: '代打哥传',
-        desc: '',
+        desc: '🎮️',
         link: '/article/代打哥',
       },
       {
@@ -305,6 +305,12 @@ export const NAV_DATA: NavData[] = [
         title: '二人转',
         desc: '双主角模式',
         link: '/article/西普二人转',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/120/joypixels/0032-20e3.png',
+        title: '增肌减脂传',
+        desc: '不可描述',
+        link: '/article/增肌减脂',
       },
     ],
   },
