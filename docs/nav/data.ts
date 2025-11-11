@@ -307,7 +307,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/西普二人转',
       },
       {
-        icon: 'https://www.emojiall.com/images/120/joypixels/0032-20e3.png',
+        icon: '/others/增肌减脂/头像.jpg',
         title: '增肌减脂传',
         desc: '不可描述',
         link: '/article/增肌减脂',
