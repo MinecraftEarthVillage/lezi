@@ -312,6 +312,12 @@ export const NAV_DATA: NavData[] = [
         desc: '不可描述',
         link: '/article/增肌减脂',
       },
+      {
+        icon: 'https://www.emojiall.com/en/header-svg/%E2%98%81%EF%B8%8F.svg',
+        title: '小懒懒传',
+        desc: '逆天云玩家',
+        link: '/article/小懒懒',
+      },
     ],
   },
   {
