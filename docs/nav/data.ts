@@ -318,6 +318,12 @@ export const NAV_DATA: NavData[] = [
         desc: '逆天云玩家',
         link: '/article/小懒懒',
       },
+      {
+        icon: '/others/赵宇/头像.jpg',
+        title: '赵宇',
+        desc: '本人在线时长还没有代打的久',
+        link: '/article/赵宇',
+      },
     ],
   },
   {
