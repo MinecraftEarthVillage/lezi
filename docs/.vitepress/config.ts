@@ -10,8 +10,8 @@ export default defineConfig({
     ignoreDeadLinks: true, // 禁用死链检查
 
   outDir: '../dist',
-  // base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
-  base: '',
+   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
+  // base: '/', //使用只定义独立域名时再用这个
   lang: 'zh-CN',
   title: '乐子档案',
   description: '不太聪明的地球村乐子记录之路，收录了大量沙雕玩家有趣的发言记录，包括但不限于作死、花式整活、骂街、迷惑言论等名场面，因其内容有趣而进行收录，切勿模仿其中的任何恶意行为',
