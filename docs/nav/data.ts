@@ -277,6 +277,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'PVP大佬の自豪',
         link: '/article/kion',
       },
+      {
+        icon: '',
+        title: '霄汉传',
+        desc: '所以说，福瑞控野狗多',
+        link: '/article/霄汉',
+      },
     ],
   },
   {
