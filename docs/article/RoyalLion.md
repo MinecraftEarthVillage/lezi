@@ -1,8 +1,8 @@
 # RoyalLion微篇
 
-新角色QQ
+<!-- 新角色QQ -->
 
-![](/others/RoyalLion/大佬QQ.jpg)
+<!-- ![](/others/RoyalLion/大佬QQ.jpg) -->
 
 ## 说着前后矛盾的话，谁知道你是支持还是反对
 
