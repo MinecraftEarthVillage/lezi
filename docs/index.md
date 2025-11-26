@@ -19,17 +19,17 @@ features:
   - icon: 👑
     title: 皇权论坛传奇
     details: 梦开始的地方
-    link: /lezi/article/mcbbs
+    link: /fool/article/mcbbs
     linkText: 点击查看
   - icon: 🎩
     title: 土皇帝喵
     details: 后门插件大王
-    link: /lezi/article/土皇帝喵
+    link: /fool/article/土皇帝喵
     linkText: 点击查看
   - icon: 🚉
     title: 我传（？）
     details: 笨蛋文档自我介绍
-    link: /lezi/article/自我介绍
+    link: /fool/article/自我介绍
     linkText: 点击查看
   - icon: 💁‍♀️
     title: 美女大全
@@ -39,7 +39,7 @@ features:
   - icon: ✈️
     title: 贡献与鸣谢
     details: 为乐子档案做出贡献！
-    link: /lezi/article/贡献与鸣谢
+    link: /fool/article/贡献与鸣谢
     linkText: 点击查看
 ---
 
