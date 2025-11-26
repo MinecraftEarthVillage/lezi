@@ -11,7 +11,7 @@ hero:
     alt: 乐子文档
   actions:
     - text: QQ交流群
-      link: https://map.earthvillage.top/qqun.html
+      link: /Map/qqun.html
     - text: 导航页面
       link: /nav/
       theme: alt
@@ -19,17 +19,17 @@ features:
   - icon: 👑
     title: 皇权论坛传奇
     details: 梦开始的地方
-    link: https://map.earthvillage.top/MCBBS.mp4
+    link: /lezi/article/mcbbs
     linkText: 点击查看
   - icon: 🎩
     title: 土皇帝喵
     details: 后门插件大王
-    link: /article/土皇帝喵
+    link: /lezi/article/土皇帝喵
     linkText: 点击查看
   - icon: 🚉
     title: 我传（？）
     details: 笨蛋文档自我介绍
-    link: /article/自我介绍
+    link: /lezi/article/自我介绍
     linkText: 点击查看
   - icon: 💁‍♀️
     title: 美女大全
@@ -38,8 +38,8 @@ features:
     linkText: 点击查看
   - icon: ✈️
     title: 贡献与鸣谢
-    details: 为乐子维基做出贡献！
-    link: /article/贡献与鸣谢
+    details: 为乐子档案做出贡献！
+    link: /lezi/article/贡献与鸣谢
     linkText: 点击查看
 ---
 
