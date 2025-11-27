@@ -5,7 +5,7 @@ export const nav: DefaultTheme.Config['nav'] = [
   { text: '地球村主页', link: 'https://emc.mysxl.cn' },
   {
     text: '服务器新人点这',
-    link: '/WIKI',
+    link: 'http://minecraftearthvillage.github.io/WIKI',
   },
   { text: 'MTR模组', link: 'https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway/files/4788065' },
   {
