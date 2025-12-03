@@ -252,7 +252,7 @@ export const NAV_DATA: NavData[] = [
         icon: '',
         title: 'BPLZ传',
         desc: 'WPLACE又一个超级熊孩子',
-        link: 'http://earthvillage.top/BPLZ/',
+        link: 'http://xn--chq7cytv3gd2cusc92g1xnlj9a.xn--chqub594eh2b.xn--4gqza7b89xba06dj7ffa144vjsrq2up6von2f.xn--xhq521b.globalvillage.xn--xhq521b/BPLZ/',
       },
     ],
   },
