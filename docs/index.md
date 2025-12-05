@@ -8,7 +8,7 @@ hero:
   tagline: 地球村服务器《名人堂》，收录了大量沙雕玩家有趣的发言记录，包括但不限于作死、花式整活、骂街、迷惑言论等名场面，因其内容有趣而进行收录，内容有好有坏，但切勿模仿其中的任何恶意行为！
   image:
     src: /logo.gif
-    alt: 乐子文档
+    alt: 名人堂
   actions:
     - text: QQ交流群
       link: /Map/qqun.html
@@ -38,7 +38,7 @@ features:
     linkText: 点击查看
   - icon: ✈️
     title: 贡献与鸣谢
-    details: 为乐子档案做出贡献！
+    details: 为名人堂做出贡献！
     link: /fool/article/贡献与鸣谢
     linkText: 点击查看
 ---

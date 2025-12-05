@@ -1,12 +1,12 @@
 本站仅记录玩家、网友的事件，对于**服务器帮助文档**，请见：
 
-https://wiki.earthvillage.top
+http://www.globalvillage.广东/WIKI
 
 # 📖 开始阅读
 
 **《名人堂》网址**
 
-https://lezi.earthvillage.top
+http://www.globalvillage.广东/fool
 
 
 # 📢 说明
