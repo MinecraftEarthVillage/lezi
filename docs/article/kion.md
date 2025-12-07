@@ -2,6 +2,8 @@
 
 大佬QQ：3755540640
 
+![](/others/kion/QQ.jpg)
+
 ## 《这有什么好稀奇的》
 
 ### 地球村第一名了！
@@ -59,3 +61,17 @@
 ## 我想收个M
 
 ![](/others/kion/想收个M.png)
+
+## 群要炸了
+
+你这个弱智还不知道为什么别人要炸你吗
+
+![](/others/kion/群被炸.png)
+
+## 神权猴子
+
+哦对了，这个Kion养了很多神权狗，这就是其中一条狗
+
+![](/others/kion/神权猴子.jpg)
+![](/others/kion/神权猴子2.jpg)
+![](/others/kion/QQ2.png)
