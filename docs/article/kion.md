@@ -73,5 +73,5 @@
 哦对了，这个Kion养了很多神权狗，这就是其中一条狗
 
 ![](/others/kion/神权猴子.jpg)
-![](/others/kion/神权猴子2.jpg)
+![](/others/kion/神权猴子2.png)
 ![](/others/kion/QQ2.png)
