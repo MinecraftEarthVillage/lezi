@@ -19,6 +19,14 @@
 
 ![](/others/mcbbs/不支持邮箱.png)
 
+## MCBBS.WIKI
+
+mcbbs.wiki这可能是最后一个残存的“MCBBS”团伙网站了，里面除了挂人就是一些有的没的“小知识”，不过如此
+
+![](/others/mcbbs/垃圾网页.png)
+
+别人中学做得网站都比你好🤣
+
 ## B友评价
 
 ![](/others/mcbbs/B友评价1.png)
