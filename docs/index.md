@@ -11,7 +11,7 @@ hero:
     alt: 名人堂
   actions:
     - text: QQ交流群
-      link: /Map/qqun.html
+      link: https://minecraftearthvillage.github.io/Map/qqun.html
     - text: 导航页面
       link: /nav/
       theme: alt
@@ -19,17 +19,17 @@ features:
   - icon: 👑
     title: 皇权论坛传奇
     details: 梦开始的地方
-    link: /fool/article/mcbbs
+    link: /article/mcbbs
     linkText: 点击查看
   - icon: 🎩
     title: 土皇帝喵
     details: 后门插件大王
-    link: /fool/article/土皇帝喵
+    link: /article/土皇帝喵
     linkText: 点击查看
   - icon: 🚉
     title: 我传（？）
     details: 笨蛋文档自我介绍
-    link: /fool/article/自我介绍
+    link: /article/自我介绍
     linkText: 点击查看
   - icon: 💁‍♀️
     title: 美女大全
@@ -39,7 +39,7 @@ features:
   - icon: ✈️
     title: 贡献与鸣谢
     details: 为名人堂做出贡献！
-    link: /fool/article/贡献与鸣谢
+    link: /article/贡献与鸣谢
     linkText: 点击查看
 ---
 
