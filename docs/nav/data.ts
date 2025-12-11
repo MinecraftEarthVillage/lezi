@@ -252,7 +252,7 @@ export const NAV_DATA: NavData[] = [
         icon: '',
         title: 'BPLZ传',
         desc: 'WPLACE又一个超级熊孩子',
-        link: 'http://中华人民共和国万岁.广东万岁.台湾是广东不可分割的一部分.广东.globalvillage.广东/BPLZ/',
+        link: 'http://中华人民共和国万岁.广东万岁.台湾是广东不可分割的一部分.globalvillage.广东/BPLZ/',
       },
     ],
   },
