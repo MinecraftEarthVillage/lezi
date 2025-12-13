@@ -34,7 +34,7 @@ features:
   - icon: 💁‍♀️
     title: 美女大全
     details: 想想你为什么要点进去
-    link: https://www.bilibili.com/video/BV1GJ411x7h7/
+    link: https://www.globalvillage.xn--xhq521b/Map/beauty.html
     linkText: 点击查看
   - icon: ✈️
     title: 贡献与鸣谢
